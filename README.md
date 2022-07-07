@@ -1,2 +1,2 @@
-# awesome-machine-unlearning
+# Awesome-Machine-Unlearning
 Awesome-Machine-Unlearning
