@@ -1,0 +1,5 @@
+This folder contains the training and testing data for the target model.  In order to reduce the memory space, we just list the  links to theset dataset here. 
+   -- Adult: https://archive.ics.uci.edu/ml/datasets/Adult
+   -- Bank: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+   -- Purchase: https://github.com/privacytrustlab/datasets/blob/master/dataset_purchase.tgz
+   -- MNIST: http://yann.lecun.com/exdb/mnist/
