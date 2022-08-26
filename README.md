@@ -1,11 +1,13 @@
 # Awesome-Machine-Unlearning
 
-A compilation of academic articles, published methodology, and datasets on the subject of **machine unlearning**.
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+A compilation of academic articles, published methodology, and datasets on the subject of machine unlearning.
 
 - [Awesome-Machine-Unlearning](#awesome-machine-unlearning)
   - [ A Framework of Machine Unlearning](#a-framework-of-machine-unlearning)
   - [Surveys](#surveys)
-  - [Model-agnostic](#anomalous-node-detection)
+  - [Model-agnostic](#model-agnostic)
   - [Model-intrinsic](#model-intrinsic)
   - [Data-Driven](#data-driven)
   - [Datasets](#datasets)
@@ -67,6 +69,7 @@ A compilation of academic articles, published methodology, and datasets on the s
 - ACM https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/tree/main/Datasets
 - Flickr https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/tree/main/Datasets
 
+----------
 **Disclaimer**
 
 If you have any questions or updated news on ..., please feel free to contact us.
