@@ -28,8 +28,6 @@ Please read and cite our paper:
 }
 ```
 
-If you have some other related references, please feel free to create a Github issue with the paper information. We will glady update the repos according to your suggestions. (You can also create pull requests, but it might take some time for us to do the merge)
-
 ----------
 
 ## A Framework of Machine Unlearning
@@ -112,6 +110,8 @@ If you have some other related references, please feel free to create a Github i
 **Disclaimer**
 
 Feel free to contact us if you have any queries or exciting news on machine unlearning. In addition, we welcome all researchers to contribute to this repository and further contribute to the knowledge of machine unlearning fields.
+
+If you have some other related references, please feel free to create a Github issue with the paper information. We will glady update the repos according to your suggestions. (You can also create pull requests, but it might take some time for us to do the merge)
 
 
 
