@@ -14,7 +14,7 @@ A collection of academic articles, published methodology, and datasets on the su
   - [Datasets](#datasets)
   
 
-This is the official implementation of 
+Please read and cite our paper: 
 >Nguyen, T.T., Huynh, T.T., Nguyen, P.L., Liew, A.W.C., Yin, H. and Nguyen, Q.V.H., 2022. A Survey of Machine Unlearning. arXiv preprint arXiv:2209.02299.
 
 ## Citation
