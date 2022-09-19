@@ -1,4 +1,4 @@
-# Awesome-Machine-Unlearning
+# Awesome Machine Unlearning
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2209.02299-b31b1b.svg)](https://arxiv.org/abs/2209.02299)
