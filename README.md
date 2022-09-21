@@ -44,7 +44,9 @@ Please read and cite our paper:
 | [Algorithms that remember: model inversion attacks and data protection law](https://doi.org/10.1098/rsta.2018.0083) | _Philosophical Transactions of the Royal Society A_ | 2018 |
 ----------
 
-## Model-agnostic
+## Model-Agnostic
+Model-agnostic machine unlearning methodologies include unlearning processes or frameworks that are applicable for different models. In some cases, they provide theoretical guarantees for only a class of models (e.g. linear models). But we still consider them model-agnostic as their core ideas are applicable to complex models (e.g. deep neural networks) with practical results.
+
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
 | [Humans forget, machines remember: Artificial intelligence and the Right to Be Forgotten](https://www.sciencedirect.com/science/article/pii/S0267364917302091) | _Computer Law & Security Review_ | 2018 |
@@ -52,7 +54,8 @@ Please read and cite our paper:
 | [Humans forget, machines remember: Artificial intelligence and the Right to Be Forgotten](https://www.sciencedirect.com/science/article/pii/S0267364917302091) | _Computer Law & Security Review_ | 2018 |
 ----------
 
-## Model-intrinsic
+## Model-Intrinsic
+The model-intrinsic approaches include unlearning methods designed for a specific type of models. Although they are model-intrinsic, their applications are not necessarily narrow, as many ML models can share the same type.
 | **Paper Title** | **Venue** | **Year** | 
 | -------------- | ---- | ---- | 
 | [Humans forget, machines remember: Artificial intelligence and the Right to Be Forgotten](https://www.sciencedirect.com/science/article/pii/S0267364917302091) | _Computer Law & Security Review_ | 2018 |
@@ -61,6 +64,7 @@ Please read and cite our paper:
 ----------
 
 ## Data-Driven
+The approaches fallen into this category use data partition, data augmentation and data influence to speed up the retraining process.
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | ---- |
 | [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://ojs.aaai.org/index.php/AAAI/article/view/20846) | 2022 | Wu et al. | AAAI | PUMA | - | Data Influence |
