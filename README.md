@@ -61,11 +61,26 @@ Please read and cite our paper:
 ----------
 
 ## Data-Driven
-| **Paper Title** | **Venue** | **Year** | 
-| --------------- | ---- | ---- | 
-| [Humans forget, machines remember: Artificial intelligence and the Right to Be Forgotten](https://www.sciencedirect.com/science/article/pii/S0267364917302091) | _Computer Law & Security Review_ | 2018 |
-| [Humans forget, machines remember: Artificial intelligence and the Right to Be Forgotten](https://www.sciencedirect.com/science/article/pii/S0267364917302091) | _Computer Law & Security Review_ | 2018 |
-| [Humans forget, machines remember: Artificial intelligence and the Right to Be Forgotten](https://www.sciencedirect.com/science/article/pii/S0267364917302091) | _Computer Law & Security Review_ | 2018 |
+| **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
+| --------------- | :----: | ---- | :----: | :----: | :----: | ---- |
+| [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://ojs.aaai.org/index.php/AAAI/article/view/20846) | 2022 | Wu et al. | AAAI | PUMA | - | Data Influence |
+| [Certifiable Unlearning Pipelines for Logistic Regression: An Experimental Study](https://www.mdpi.com/2504-4990/4/3/28) | 2022 | Mahadevan and Mathioudakis | MAKE | - | [[Code]](https://version.helsinki.fi/mahadeva/unlearning-experiments) | Data Influence |
+| [Zero-Shot Machine Unlearning](https://arxiv.org/abs/2201.05629) | 2022 | Chundawat et al. | arXiv | - | - | Data Influence |
+| [GRAPHEDITOR: An Efficient Graph Representation Learning and Unlearning Approach](https://congweilin.github.io/CongWeilin.io/files/GraphEditor.pdf) | 2022 | Cong and Mahdavi | - | GRAPHEDITOR | [[Code]](https://anonymous.4open.science/r/GraphEditor-NeurIPS22-856E/README.md) | Data Influence |
+| [Learning to Refit for Convex Learning Problems](https://arxiv.org/abs/2111.12545) | 2021 | Zeng et al. | arXiv | OPTLEARN | - | Data Influence |
+| [Fast Yet Effective Machine Unlearning](https://arxiv.org/abs/2111.08947) | 2021 | Ayush et al. | arXiv | - | - | Data Augmentation |
+| [SSSE: Efficiently Erasing Samples from Trained Machine Learning Models](https://openreview.net/forum?id=GRMKEx3kEo) | 2021 | Peste et al. | NeurIPS | SSSE | - | Data Influence |
+| [Coded Machine Unlearning](https://ieeexplore.ieee.org/document/9458237) | 2021 | Aldaghri et al. | IEEE | - | - | Data Partitioning |
+| [Machine Unlearning](https://ieeexplore.ieee.org/document/9519428) | 2021 | Bourtoule et al. | IEEE | SISA | [[Code]](https://github.com/cleverhans-lab/machine-unlearning) | Data Partitioning |
+| [How Does Data Augmentation Affect Privacy in Machine Learning?](https://ojs.aaai.org/index.php/AAAI/article/view/17284/) | 2021 | Yu et al. | AAAI | - | [[Code]](https://github.com/dayu11/MI_with_DA) | Data Augmentation |
+| [Amnesiac Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17371) | 2021 | Graves et al. | AAAI | AmnesiacML | [[Code]](https://github.com/lmgraves/AmnesiacML) | Data Influence |
+| [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898) | 2021 | Huang et al. | ICLR | - | [[Code]](https://github.com/HanxunH/Unlearnable-Examples) | Data Augmentation |
+| [Descent-to-Delete: Gradient-Based Methods for Machine Unlearning](https://proceedings.mlr.press/v132/neel21a.html) | 2021 | Neel et al. | ALT | - | - | Data Influence |
+| [Fawkes: Protecting Privacy against Unauthorized Deep Learning Models](https://dl.acm.org/doi/abs/10.5555/3489212.3489302) | 2020 | Shan et al. | USENIX Sec. Sym. | Fawkes | [[Code]](https://github.com/Shawn-Shan/fawkes) | Data Augmentation |
+| [PrIU: A Provenance-Based Approach for Incrementally Updating Regression Models](https://dl.acm.org/doi/abs/10.1145/3318464.3380571) | 2020 | Wu et al. | SIGMOD | PrIU/PrIU-opt | - | Data Influence |
+| [DeltaGrad: Rapid retraining of machine learning models](https://proceedings.mlr.press/v119/wu20b.html) | 2020 | Wu et al. | ICML | DeltaGrad | [[Code]](https://github.com/thuwuyinjun/DeltaGrad) | Data Influence |
+
+
 ----------
 
 ## Datasets
@@ -112,10 +127,4 @@ Please read and cite our paper:
 Feel free to contact us if you have any queries or exciting news on machine unlearning. In addition, we welcome all researchers to contribute to this repository and further contribute to the knowledge of machine unlearning fields.
 
 If you have some other related references, please feel free to create a Github issue with the paper information. We will glady update the repos according to your suggestions. (You can also create pull requests, but it might take some time for us to do the merge)
-
-
-
-
-
-
 
