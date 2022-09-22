@@ -14,7 +14,11 @@ A collection of academic articles, published methodology, and datasets on the su
   - [Model-intrinsic](#model-intrinsic)
   - [Data-Driven](#data-driven)
   - [Datasets](#datasets)
-  
+    - [Type: Image](#type:-image)
+    - [Type: Tabular](#type:-tabular)
+    - [Type: Text](#type:-text)
+    - [Type: Sequence](#type:-sequence)
+    - [Type: Graph](#type:-graph)
 
 Please read and cite our paper: 
 >Nguyen, T.T., Huynh, T.T., Nguyen, P.L., Liew, A.W.C., Yin, H. and Nguyen, Q.V.H., 2022. A Survey of Machine Unlearning. arXiv preprint arXiv:2209.02299.
