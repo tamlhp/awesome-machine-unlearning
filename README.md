@@ -81,6 +81,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 ----------
 
 ## Model-Intrinsic Approaches
+[![Model-Intrinsic](figs/model-intrinsic.png)](https://arxiv.org/abs/2209.02299)
 The model-intrinsic approaches include unlearning methods designed for a specific type of models. Although they are model-intrinsic, their applications are not necessarily narrow, as many ML models can share the same type.
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Unlearning For** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | ---- |
