@@ -110,6 +110,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 ----------
 
 ## Data-Driven Approaches
+[![Data-Driven](figs/data-driven.png)](https://arxiv.org/abs/2209.02299)
 The approaches fallen into this category use data partition, data augmentation and data influence to speed up the retraining process.
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | ---- |
