@@ -38,7 +38,7 @@ Please read and cite our paper:
 ----------
 
 ## A Framework of Machine Unlearning
-[![timeline](framework.png)](https://www.linkedin.com/in/tamlhp/)
+[![timeline](framework.png)](https://arxiv.org/abs/2209.02299)
 
 ----------
 
@@ -109,6 +109,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 
 ## Data-Driven Approaches
 The approaches fallen into this category use data partition, data augmentation and data influence to speed up the retraining process.
+[![timeline](figs/partition.png)](https://arxiv.org/abs/2209.02299)
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | ---- |
 | [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://ojs.aaai.org/index.php/AAAI/article/view/20846) | 2022 | Wu et al. | _AAAI_ | PUMA | - | Data Influence |
