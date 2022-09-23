@@ -9,16 +9,17 @@ A collection of academic articles, published methodology, and datasets on the su
 
 - [Awesome-Machine-Unlearning](#awesome-machine-unlearning)
   - [ A Framework of Machine Unlearning](#a-framework-of-machine-unlearning)
-  - [Surveys](#surveys)
-  - [Model-agnostic](#model-agnostic)
-  - [Model-intrinsic](#model-intrinsic)
-  - [Data-Driven](#data-driven)
+  - [Surveys](#existing-surveys)
+  - [Model-agnostic](#model-agnostic-approaches)
+  - [Model-intrinsic](#model-intrinsic-approaches)
+  - [Data-Driven](#data-driven-approaches)
   - [Datasets](#datasets)
     - [Type: Image](#type-image)
     - [Type: Tabular](#type-tabular)
     - [Type: Text](#type-text)
     - [Type: Sequence](#type-sequence)
     - [Type: Graph](#type-graph)
+  - [Evaluation Metrics](#evaluation-metrics)
 
 Please read and cite our paper: 
 >Nguyen, T.T., Huynh, T.T., Nguyen, P.L., Liew, A.W.C., Yin, H. and Nguyen, Q.V.H., 2022. A Survey of Machine Unlearning. arXiv preprint arXiv:2209.02299.
@@ -41,7 +42,7 @@ Please read and cite our paper:
 
 ----------
 
-## Surveys
+## Existing Surveys
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
 | [Making machine learning forget](https://www.sciencedirect.com/science/article/pii/S0267364917302091) | _Annual Privacy Forum_ | 2019 |
@@ -50,7 +51,7 @@ Please read and cite our paper:
 | [Algorithms that remember: model inversion attacks and data protection law](https://doi.org/10.1098/rsta.2018.0083) | _Philosophical Transactions of the Royal Society A_ | 2018 |
 ----------
 
-## Model-Agnostic
+## Model-Agnostic Approaches
 Model-agnostic machine unlearning methodologies include unlearning processes or frameworks that are applicable for different models. In some cases, they provide theoretical guarantees for only a class of models (e.g. linear models). But we still consider them model-agnostic as their core ideas are applicable to complex models (e.g. deep neural networks) with practical results.
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
@@ -78,7 +79,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Incremental and Decremental Support Vector Machine Learning](https://dl.acm.org/doi/10.5555/3008751.3008808) | 2000 | Cauwenberg et al. | _NeurIPS_ | - | - | Decremental Learning  |
 ----------
 
-## Model-Intrinsic
+## Model-Intrinsic Approaches
 The model-intrinsic approaches include unlearning methods designed for a specific type of models. Although they are model-intrinsic, their applications are not necessarily narrow, as many ML models can share the same type.
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Unlearning For** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | ---- |
@@ -106,7 +107,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 
 ----------
 
-## Data-Driven
+## Data-Driven Approaches
 The approaches fallen into this category use data partition, data augmentation and data influence to speed up the retraining process.
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | ---- |
@@ -167,6 +168,24 @@ The approaches fallen into this category use data partition, data augmentation a
 | [OGB](https://ogb.stanford.edu/) | 100M+ | 59MB | Classification | 2 papers |
 | [Cora](https://relational.fit.cvut.cz/dataset/CORA) | 2K+ | 4.5MB | Classification | 3 papers | 
 | [MovieLens](http://konect.cc/networks/) | 1B+ | 3GB+ | Recommender Systems | 1 paper |
+
+----------
+## Evaluation Metrics
+| Metrics | Formula/Description | Usage |
+| ---- | ---- | ---- |
+| Accuracy | Accuracy on unlearned model on forget set and retrain set | Evaluating the predictive performance of un- learned model |
+| Completeness | The overlapping (e.g. Jaccard distance) of output space between the retrained and the unlearned model | Evaluating the indistinguishability between model outputs |
+| Unlearn time | The amount of time of unlearning request | Evaluating the unlearning efficiency |
+| Relearn Time | The epochs number required for the unlearned model to reach the accuracy of source model | Evaluating the unlearning efficiency (relearn with some data sample) |
+| Layer-wise Distance | The weight difference between original model and retrain model | Evaluate the indistinguishability between model parameters |
+| Activation Distance | An average of the L2-distance between the unlearned model and retrained model’s predicted probabilities on the forget set | Evaluating the indistinguishability between model outputs | 
+| JS-Divergence | Jensen-Shannon divergence between the predictions of the unlearned and retrained model: $\mathcal{JS}(M(x), T_d(x)) = 0.5*\mathcal{KL}(M(x)||m)+ 0.5*\mathcal{KL}(T_d(x)||m)$ | Evaluating the indistinguishability between model outputs |
+| Membership Inference Attack | Recall (#detected items / #forget items) | Verify the influence of forget data on the unlearned model |
+| ZRF score | \mathcal{ZFR} = 1 - \frac{1}{nf}\sum_{i=0}^{n_f} \mathcal{JS}(M(x_i), T_d(x_i)) | The unlearned model should not intentionally give wrong output ($\mathcal{ZFR} = 0$) or random output ($\mathcal{ZFR} = 1$) on the forget item |
+| Anamnesis Index (AIN) | $AIN = \frac{r_t (M_u, M_{orig}, \alpha)}{r_t (M_s, M_{orig}, \alpha)}$ | Zero-shot machine unlearning | 
+| Epistemic Uncertainty | ![equation](https://latex.codecogs.com/svg.image?%09%5Cmbox%7Befficacy%7D(w;D)%20=%20%5Cbegin%7Bcases%7D%09%09%5Cfrac%7B1%7D%7Bi(w;%20D)%7D,%20%5Cmbox%7Bif%20i(w;D)%20%3E%200%7D%20%5C%5C%09%09%5Cinfty,%20%5Cmbox%7Botherwise%7D%09%5Cend%7Bcases%7D) | How much information the model exposes |
+| Model Inversion Attack | Visualization | Qualitative verifications and evaluations | 
+
 
 ----------
 **Disclaimer**
