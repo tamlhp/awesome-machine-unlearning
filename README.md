@@ -52,6 +52,7 @@ Please read and cite our paper:
 ----------
 
 ## Model-Agnostic Approaches
+[![Model-Agnostic](figs/model-agnostic.png)](https://arxiv.org/abs/2209.02299)
 Model-agnostic machine unlearning methodologies include unlearning processes or frameworks that are applicable for different models. In some cases, they provide theoretical guarantees for only a class of models (e.g. linear models). But we still consider them model-agnostic as their core ideas are applicable to complex models (e.g. deep neural networks) with practical results.
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
