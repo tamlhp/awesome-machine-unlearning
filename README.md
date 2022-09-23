@@ -181,7 +181,7 @@ The approaches fallen into this category use data partition, data augmentation a
 | Activation Distance | An average of the L2-distance between the unlearned model and retrained model’s predicted probabilities on the forget set | Evaluating the indistinguishability between model outputs | 
 | JS-Divergence | Jensen-Shannon divergence between the predictions of the unlearned and retrained model: $\mathcal{JS}(M(x), T_d(x)) = 0.5*\mathcal{KL}(M(x)||m)+ 0.5*\mathcal{KL}(T_d(x)||m)$ | Evaluating the indistinguishability between model outputs |
 | Membership Inference Attack | Recall (#detected items / #forget items) | Verify the influence of forget data on the unlearned model |
-| ZRF score | $\mathcal{ZFR} = 1 - \frac{1}{nf}\sum_{i=0}^{n_f} \mathcal{JS}(M(x_i), T_d(x_i))$ | The unlearned model should not intentionally give wrong output \($\mathcal{ZFR} = 0$\) or random output \($\mathcal{ZFR} = 1$\) on the forget item |
+| ZRF score | $\mathcal{ZFR} = 1 - \frac{1}{nf}\sum_{i=0}^{n_f} \mathcal{JS}(M(x_i), T_d(x_i))$ | The unlearned model should not intentionally give wrong output $\(\mathcal{ZFR} = 0\)$ or random output $\(\mathcal{ZFR} = 1\)$ on the forget item |
 | Anamnesis Index (AIN) | $AIN = \frac{r_t (M_u, M_{orig}, \alpha)}{r_t (M_s, M_{orig}, \alpha)}$ | Zero-shot machine unlearning | 
 | Epistemic Uncertainty | ![equation](https://latex.codecogs.com/svg.image?%09%5Cmbox%7Befficacy%7D(w;D)%20=%20%5Cbegin%7Bcases%7D%09%09%5Cfrac%7B1%7D%7Bi(w;%20D)%7D,%20%5Cmbox%7Bif%20i(w;D)%20%3E%200%7D%20%5C%5C%09%09%5Cinfty,%20%5Cmbox%7Botherwise%7D%09%5Cend%7Bcases%7D) | How much information the model exposes |
 | Model Inversion Attack | Visualization | Qualitative verifications and evaluations | 
