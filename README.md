@@ -176,7 +176,7 @@ The approaches fallen into this category use data partition, data augmentation a
 ## Evaluation Metrics
 | Metrics | Formula/Description | Usage |
 | ---- | ---- | ---- |
-| Accuracy | Accuracy on unlearned model on forget set and retrain set | Evaluating the predictive performance of un- learned model |
+| Accuracy | Accuracy on unlearned model on forget set and retrain set | Evaluating the predictive performance of unlearned model |
 | Completeness | The overlapping (e.g. Jaccard distance) of output space between the retrained and the unlearned model | Evaluating the indistinguishability between model outputs |
 | Unlearn time | The amount of time of unlearning request | Evaluating the unlearning efficiency |
 | Relearn Time | The epochs number required for the unlearned model to reach the accuracy of source model | Evaluating the unlearning efficiency (relearn with some data sample) |
