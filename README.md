@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2209.02299-b31b1b.svg)](https://arxiv.org/abs/2209.02299)
 ![GitHub stars](https://img.shields.io/github/stars/tamlhp/awesome-machine-unlearning?color=yellow&label=Stars)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tamlhp.awesome-machine-unlearning) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tamlhp/awesome-machine-unlearning) 
 
 A collection of academic articles, published methodology, and datasets on the subject of **machine unlearning**.
 
