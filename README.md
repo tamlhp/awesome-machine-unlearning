@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2209.02299-b31b1b.svg)](https://arxiv.org/abs/2209.02299)
 ![GitHub stars](https://img.shields.io/github/stars/tamlhp/awesome-machine-unlearning?color=yellow&label=Stars)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tamlhp/awesome-machine-unlearning) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tamlhp.awesome-machine-unlearning) 
 
 A collection of academic articles, published methodology, and datasets on the subject of **machine unlearning**.
 
@@ -57,6 +57,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | ---- |
+| [Machine Unlearning Method Based On Projection Residual](https://arxiv.org/abs/2209.15276) | 2022 | Cao et al. | _DSAA_ | - | - |  Projection Residual Method |
 | [Hard to Forget: Poisoning Attacks on Certified Machine Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/20736) | 2022 | Marchant et al. | _AAAI_ | - | [[Code]](https://github.com/ngmarchant/attack-unlearning) | Certified Removal Mechanisms |
 | [Markov Chain Monte Carlo-Based Machine Unlearning: Unlearning What Needs to be Forgotten](https://dl.acm.org/doi/abs/10.1145/3488932.3517406) | 2022 | Nguyen et al. | _ASIA CCS_ | MCU | - | MCMC Unlearning  |
 | [Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks using an Incompetent Teacher](https://arxiv.org/abs/2205.08096) | 2022 | Chundawat et al. | _arXiv_ | - | - | Knowledge Adaptation |
