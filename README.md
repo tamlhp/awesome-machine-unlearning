@@ -189,7 +189,7 @@ The approaches fallen into this category use data partition, data augmentation a
 | Activation Distance | An average of the L2-distance between the unlearned model and retrained model’s predicted probabilities on the forget set | Evaluating the indistinguishability between model outputs | 
 | JS-Divergence | Jensen-Shannon divergence between the predictions of the unlearned and retrained model | Evaluating the indistinguishability between model outputs |
 | Membership Inference Attack | Recall (#detected items / #forget items) | Verify the influence of forget data on the unlearned model |
-| ZRF score | $\mathcal{ZFR} = 1 - \frac{1}{nf}\sum_{i=0}^{n_f} \mathcal{JS}(M(x_i), T_d(x_i))$ | The unlearned model should not intentionally give wrong output $\(\mathcal{ZFR} = 0\)$ or random output $\(\mathcal{ZFR} = 1\)$ on the forget item |
+| ZRF score | $\mathcal{ZRF} = 1 - \frac{1}{nf}\sum\limits_{i=0}^{n_f} \mathcal{JS}(M(x_i), T_d(x_i))$ | The unlearned model should not intentionally give wrong output $\(\mathcal{ZRF} = 0\)$ or random output $\(\mathcal{ZRF} = 1\)$ on the forget item |
 | Anamnesis Index (AIN) | $AIN = \frac{r_t (M_u, M_{orig}, \alpha)}{r_t (M_s, M_{orig}, \alpha)}$ | Zero-shot machine unlearning | 
 | Epistemic Uncertainty | if $\mbox{i(w;D) > 0}$, then $\mbox{efficacy}(w;D) = \frac{1}{i(w; D)}$;<br />otherwise $\mbox{efficacy}(w;D) = \infty$ | How much information the model exposes |
 | Model Inversion Attack | Visualization | Qualitative verifications and evaluations | 
