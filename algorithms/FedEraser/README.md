@@ -1,4 +1,7 @@
 # FedEraser (Federated Unlearning)
+
+(downloaded from https://www.dropbox.com/s/1lhx962axovbbom/FedEraser-Code.zip?dl=0)
+
 ## About The Project
 FedEraser allows a federated client to quit the Federated Learning system and eliminate the influences of his or her data on the global model trained by the standard Federated Learning. 
 
