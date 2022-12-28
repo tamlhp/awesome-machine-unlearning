@@ -178,9 +178,10 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 
 ## Data-Driven Approaches
 [![Data-Driven](figs/data-driven.png)](https://arxiv.org/abs/2209.02299)
-The approaches fallen into this category use data partition, data augmentation and data influence to speed up the retraining process.
+The approaches fallen into this category use data partition, data augmentation and data influence to speed up the retraining process. Methods of attack by data manipulation (e.g. data poisoning) are also included for reference.
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | 
-| --------------- | :----: | ---- | :----: | :----: | :----: | 
+| --------------- | :----: | ---- | :----: | :----: | :----: |
+| [Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks](https://arxiv.org/abs/2212.10717) | 2022 | Di et al. | _NeurIPS_ | - | [[Code]](https://github.com/Jimmy-di/camouflage-poisoning) | Data Poisoning |
 | [Forget Unlearning: Towards True Data Deletion in Machine Learning](https://arxiv.org/pdf/2210.08911.pdf) | 2022 | Chourasia et al. | _ICLR_ | - | - | Data Influence |
 | [ARCANE: An Efficient Architecture for Exact Machine Unlearning](https://www.ijcai.org/proceedings/2022/0556.pdf) | 2022 | Yan et al.  | _IJCAI_ | ARCANE | - | Data Partition |
 | [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://ojs.aaai.org/index.php/AAAI/article/view/20846) | 2022 | Wu et al. | _AAAI_ | PUMA | - | Data Influence |
