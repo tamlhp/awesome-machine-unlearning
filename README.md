@@ -64,6 +64,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** |
 | --------------- | :----: | ---- | :----: | :----: | :----: |
+| [Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization](https://arxiv.org/abs/2211.11656) | 2022 | Fraboni et al. | _arXiv_ | SIFU | - | |
 | [Certified Data Removal in Sum-Product Networks](https://arxiv.org/abs/2210.01451) | 2022 | Becker and Liebig | _ICKG_ | UNLEARNSPN | [[Code]](https://github.com/ROYALBEFF/UnlearnSPN) | Certified Removal Mechanisms |
 | [Learning with Recoverable Forgetting](https://arxiv.org/abs/2207.08224) | 2022 | Ye et al.  | _ECCV_ | LIRF | - |  |
 | [Continual Learning and Private Unlearning](https://arxiv.org/abs/2203.12817) | 2022 | Liu et al. | _CoLLAs_ | CLPU | [[Code]](https://github.com/Cranial-XIX/Continual-Learning-Private-Unlearning) | |
