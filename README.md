@@ -146,7 +146,8 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | [Forget-SVGD: Particle-Based Bayesian Federated Unlearning](https://ieeexplore.ieee.org/abstract/document/9820602) | 2022 | Gong et al.  | _DSL Workshop_ | Forget-SVGD | - | Bayensian Models |
 | [Machine Unlearning of Federated Clusters](https://arxiv.org/abs/2210.16424) | 2022 | Pan et al. | _arXiv_ | SCMA | - | Federated clustering |
 | [Machine Unlearning for Image Retrieval: A Generative Scrubbing Approach](https://dl.acm.org/doi/abs/10.1145/3503161.3548378) | 2022 | Zhang et al. | _MM_ | - | - | DNN-based Models |
-| [Privacy Matters! Efficient Graph Representation Unlearning with Data Removal Guarantee](https://congweilin.github.io/CongWeilin.io/files/Projector.pdf) | 2022 | Cong and Mahdavi | - | PROJECTOR | - | GNN-based Models |
+| [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection
+](https://arxiv.org/abs/2302.08990) | 2023 | Cong and Mahdavi | AISTATS23 | PROJECTOR | [[Code]](https://github.com/CongWeilin/Projector) | GNN-based Models |
 | [Machine Unlearning: Linear Filtration for Logit-based Classifiers](https://link.springer.com/article/10.1007/s10994-022-06178-9) | 2022 | Baumhauer et al. | _Machine Learning_ | normalizing filtration | - | Softmax classifiers |
 | [Deep Unlearning via Randomized Conditionally Independent Hessians](https://openaccess.thecvf.com/content/CVPR2022/html/Mehta_Deep_Unlearning_via_Randomized_Conditionally_Independent_Hessians_CVPR_2022_paper.html) | 2022 | Mehta et al. | _CVPR_ | L-CODEC | [[Code]](https://github.com/vsingh-group/LCODEC-deep-unlearning) | DNN-based Models |
 | [Challenges and Pitfalls of Bayesian Unlearning](https://arxiv.org/abs/2207.03227) | 2022 | Rawat et al. | _UPML Workshop_ | - | - | Bayesian Models |
