@@ -130,7 +130,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 The model-intrinsic approaches include unlearning methods designed for a specific type of models. Although they are model-intrinsic, their applications are not necessarily narrow, as many ML models can share the same type.
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | 
 | --------------- | :----: | ---- | :----: | :----: | :----: |
-| [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://arxiv.org/abs/2302.08990) | 2023 | Cong and Mahdavi | AISTATS23 | PROJECTOR | [[Code]](https://github.com/CongWeilin/Projector) | GNN-based Models |
+| [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://arxiv.org/abs/2302.08990) | 2023 | Cong and Mahdavi | AISTATS | PROJECTOR | [[Code]](https://github.com/CongWeilin/Projector) | GNN-based Models |
 | [Unrolling SGD: Understanding Factors Influencing Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/9797378) | 2022 | Thudi et al. | _EuroS&P_ | - | [[Code]](https://github.com/cleverhans-lab/unrolling-sgd) | SGD |
 | [Graph Unlearning](https://arxiv.org/abs/2103.14991) | 2022 | Chen et al. | _CCS_ | GraphEraser | [[Code]](https://github.com/MinChen00/Graph-Unlearning)  | Graph Neural Networks |
 | [Certified Graph Unlearning](https://arxiv.org/abs/2206.09140) | 2022 | Chien et al.  | _GLFrontiers Workshop_ | - | [[Code]](https://github.com/thupchnsky/sgc_unlearn) | Graph Neural Networks |
