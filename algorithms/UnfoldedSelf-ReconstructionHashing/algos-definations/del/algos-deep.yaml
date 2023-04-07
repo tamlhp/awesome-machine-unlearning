@@ -1,0 +1,61 @@
+float:
+  any:
+    USR-LSH:
+      disabled: false
+      docker-tag: ann-benchmarks-usr
+      module: ann_benchmarks.algorithms.usr
+      constructor: UsrANN
+      base-args: ["@metric"]
+      run-groups:
+        # args: iterations, m, hash_num
+        # query: q_iteration
+        bits-8:
+          args: [ [16],[8] ]
+    simHash:
+      disabled: false
+      docker-tag: ann-benchmarks-lsh
+      module: ann_benchmarks.algorithms.lsh
+      constructor: LshANN
+      base-args: ["@metric"]
+      run-groups:
+        # hash_bits_per_dim, hash_num
+        bits-8:
+          args: [ [8] ]
+    SB-LSH(Faiss):
+      disabled: false
+      docker-tag: ann-benchmarks-faiss
+      module: ann_benchmarks.algorithms.faiss
+      constructor: FaissLSH
+      base-args: ["@metric"]
+      run-groups:
+        base:
+          args: [[768]]
+
+    Scann:
+      docker-tag: ann-benchmarks-scann
+      module: ann_benchmarks.algorithms.scann
+      constructor: Scann
+      run-groups:
+        scann1:
+          args: [[600], [.nan], [2], ["squared_l2"]]
+          query-args: [[[4, 40]]]
+    Faiss-IVFPQfs:
+      docker-tag: ann-benchmarks-faiss
+      module: ann_benchmarks.algorithms.faiss
+      constructor: FaissIVFPQfs
+      base-args: ["@metric"]
+      run-groups:
+        base:
+          args: [[512]]
+          query-args: [[1],[10]]
+    Annoy:
+      docker-tag: ann-benchmarks-annoy
+      module: ann_benchmarks.algorithms.annoy
+      constructor: Annoy
+      base-args: ["@metric"]
+      run-groups:
+        annoy:
+          args: [[100]]
+          query-args: [[100]]
+  euclidean: {}
+  angular: {}

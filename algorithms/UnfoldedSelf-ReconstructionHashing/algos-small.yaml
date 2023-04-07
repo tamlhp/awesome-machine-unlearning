@@ -1,0 +1,47 @@
+float:
+  any:
+    usr:
+      disabled: false
+      docker-tag: ann-benchmarks-usr
+      module: ann_benchmarks.algorithms.usr
+      constructor: UsrANN
+      base-args: ["@metric"]
+      run-groups:
+        # args: iterations, m, hash_num
+        # query: q_iteration
+        base:
+          args: [ [2],[4,8],[8,16] ]
+          query-args: [ [ 2 ] ]
+    usr-fft:
+      disabled: false
+      docker-tag: ann-benchmarks-usr
+      module: ann_benchmarks.algorithms.usr_fft
+      constructor: UsrFftANN
+      base-args: ["@metric"]
+      run-groups:
+        # args: iterations, m, hash_num
+        # query: q_iteration
+        base:
+          args: [ [2],[4],[8] ]
+          query-args: [ [ 2 ] ]
+    lsh:
+      disabled: false
+      docker-tag: ann-benchmarks-lsh
+      module: ann_benchmarks.algorithms.lsh
+      constructor: LshANN
+      base-args: ["@metric"]
+      run-groups:
+        # hash_bits_per_dim, hash_num
+        base:
+          args: [ [4],[4] ]
+    faiss-lsh:
+      disabled: false
+      docker-tag: ann-benchmarks-faiss
+      module: ann_benchmarks.algorithms.faiss
+      constructor: FaissLSH
+      base-args: ["@metric"]
+      run-groups:
+        base:
+          args: [[400,800]]
+  euclidean: {}
+  angular: {}

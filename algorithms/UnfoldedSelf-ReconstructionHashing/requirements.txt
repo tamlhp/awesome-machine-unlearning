@@ -1,0 +1,6 @@
+docker
+faiss-cpu
+sympy
+ipympl
+annoy
+scann
