@@ -64,6 +64,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** |
 | --------------- | :----: | ---- | :----: | :----: | :----: |
+| [Towards Adversarial Evaluations for Inexact Machine Unlearning](https://arxiv.org/abs/2201.06640) | 2023 | Goel et al. | _arXiv_ | EU-k, CF-k | [[Code]](https://github.com/shash42/Evaluating-Inexact-Unlearning) |
 | [On the Trade-Off between Actionable Explanations and the Right to be Forgotten](https://openreview.net/pdf?id=HWt4BBZjVW) | 2023 | Pawelczyk et al. | _arXiv_ | - | - |  |
 | [Towards Unbounded Machine Unlearning](https://arxiv.org/pdf/2302.09880) | 2023 | Kurmanji et al. | _arXiv_ | SCRUB | [[Code]](https://github.com/Meghdad92/SCRUB) | approximate unlearning |
 | [Netflix and Forget: Efficient and Exact Machine Unlearning from Bi-linear Recommendations](https://arxiv.org/abs/2302.06676) | 2023 | Xu et al. | _arXiv_ | Unlearn-ALS | - | Exact Unlearning |
@@ -130,7 +131,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 The model-intrinsic approaches include unlearning methods designed for a specific type of models. Although they are model-intrinsic, their applications are not necessarily narrow, as many ML models can share the same type.
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | 
 | --------------- | :----: | ---- | :----: | :----: | :----: |
-| [Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search](https://arxiv.org/pdf/2304.02350.pdf) | 2023 | Kim et al. | _arXiv_ | USR-LSH | [[Code]](https://anonymous.4open.science/r/ann-benchmarks-3786/README.md) |
+| [Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search](https://arxiv.org/pdf/2304.02350.pdf) | 2023 | Tan et al. | _arXiv_ | USR-LSH | [[Code]](https://anonymous.4open.science/r/ann-benchmarks-3786/README.md) |
 | [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://arxiv.org/abs/2302.08990) | 2023 | Cong and Mahdavi | _AISTATS_ | PROJECTOR | [[Code]](https://github.com/CongWeilin/Projector) | GNN-based Models |
 | [Unrolling SGD: Understanding Factors Influencing Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/9797378) | 2022 | Thudi et al. | _EuroS&P_ | - | [[Code]](https://github.com/cleverhans-lab/unrolling-sgd) | SGD |
 | [Graph Unlearning](https://arxiv.org/abs/2103.14991) | 2022 | Chen et al. | _CCS_ | GraphEraser | [[Code]](https://github.com/MinChen00/Graph-Unlearning)  | Graph Neural Networks |
