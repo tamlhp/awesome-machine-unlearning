@@ -5,7 +5,8 @@
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Official%20Website&up_color=green&up_message=online&url=https%3A%2F%2Fawesome-machine-unlearning.github.io%2F)](https://awesome-machine-unlearning.github.io/)
 ![GitHub stars](https://img.shields.io/github/stars/tamlhp/awesome-machine-unlearning?color=yellow&label=Stars)
 ```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tamlhp.awesome-machine-unlearning)```
-[![Visits Badge](https://badges.pufler.dev/visits/tamlhp/awesome-machine-unlearning)](ab)
+```[![Visits Badge](https://badges.pufler.dev/visits/tamlhp/awesome-machine-unlearning)](https://badges.pufler.dev)```
+![Visitor Count](https://profile-counter.glitch.me/tamlhp/awesome-machine-unlearning/count.svg)
 
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
