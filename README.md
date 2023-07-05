@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/tamlhp/awesome-machine-unlearning?color=yellow&label=Stars)
 ```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tamlhp.awesome-machine-unlearning)```
 ```[![Visits Badge](https://badges.pufler.dev/visits/tamlhp/awesome-machine-unlearning)](https://badges.pufler.dev)```
-![Visitor Count](https://profile-counter.glitch.me/tamlhp/awesome-machine-unlearning/count.svg)
+![Visits Badge](https://badges.pufler.dev/visits/tamlhp/awesome-machine-unlearning)
 
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
