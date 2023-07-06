@@ -64,8 +64,8 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-220
 [![Model-Agnostic](figs/model-agnostic.png)](https://arxiv.org/abs/2209.02299)
 Model-agnostic machine unlearning methodologies include unlearning processes or frameworks that are applicable for different models. In some cases, they provide theoretical guarantees for only a class of models (e.g. linear models). But we still consider them model-agnostic as their core ideas are applicable to complex models (e.g. deep neural networks) with practical results.
 
-| **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** |
-| --------------- | :----: | ---- | :----: | :----: | :----: |
+| **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
+| --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
 | [Towards Adversarial Evaluations for Inexact Machine Unlearning](https://arxiv.org/abs/2201.06640) | 2023 | Goel et al. | _arXiv_ | EU-k, CF-k | [[Code]](https://github.com/shash42/Evaluating-Inexact-Unlearning) |
 | [On the Trade-Off between Actionable Explanations and the Right to be Forgotten](https://openreview.net/pdf?id=HWt4BBZjVW) | 2023 | Pawelczyk et al. | _arXiv_ | - | - |  |
 | [Towards Unbounded Machine Unlearning](https://arxiv.org/pdf/2302.09880) | 2023 | Kurmanji et al. | _arXiv_ | SCRUB | [[Code]](https://github.com/Meghdad92/SCRUB) | approximate unlearning |
