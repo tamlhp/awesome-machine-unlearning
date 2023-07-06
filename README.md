@@ -131,8 +131,9 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 ## Model-Intrinsic Approaches
 [![Model-Intrinsic](figs/model-intrinsic.png)](https://arxiv.org/abs/2209.02299)
 The model-intrinsic approaches include unlearning methods designed for a specific type of models. Although they are model-intrinsic, their applications are not necessarily narrow, as many ML models can share the same type.
-| **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | 
-| --------------- | :----: | ---- | :----: | :----: | :----: |
+
+| **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
+| --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
 | [One-Shot Machine Unlearning with Mnemonic Code](https://arxiv.org/abs/2306.05670) | 2023 | Yamashita | _arXiv_ | One-Shot MU | - |
 | [ERM-KTP: Knowledge-level Machine Unlearning via Knowledge Transfer](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.pdf) | 2023 | Lin et al. | _CVPR_ | ERM-KTP | [[Code]](https://github.com/RUIYUN-ML/ERM-KTP) |
 | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | 2023 | Cheng et al. | _ICLR_ | GNNDELETE | [[Code]](https://github.com/mims-harvard/GNNDelete) |
@@ -192,8 +193,9 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 ## Data-Driven Approaches
 [![Data-Driven](figs/data-driven.png)](https://arxiv.org/abs/2209.02299)
 The approaches fallen into this category use data partition, data augmentation and data influence to speed up the retraining process. Methods of attack by data manipulation (e.g. data poisoning) are also included for reference.
-| **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | 
-| --------------- | :----: | ---- | :----: | :----: | :----: |
+
+| **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
+| --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
 | [Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks](https://arxiv.org/abs/2212.10717) | 2022 | Di et al. | _NeurIPS_ | - | [[Code]](https://github.com/Jimmy-di/camouflage-poisoning) | Data Poisoning |
 | [Forget Unlearning: Towards True Data Deletion in Machine Learning](https://arxiv.org/pdf/2210.08911.pdf) | 2022 | Chourasia et al. | _ICLR_ | - | - | Data Influence |
 | [ARCANE: An Efficient Architecture for Exact Machine Unlearning](https://www.ijcai.org/proceedings/2022/0556.pdf) | 2022 | Yan et al.  | _IJCAI_ | ARCANE | - | Data Partition |
