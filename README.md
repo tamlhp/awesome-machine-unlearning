@@ -288,4 +288,5 @@ If you have some other related references, please feel free to create a Github i
 
 
 [![HitCount](https://hits.dwyl.com/tamlhp/awesome-machine-unlearning.svg?style=flat-square)](http://hits.dwyl.com/tamlhp/awesome-machine-unlearning)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tamlhp.awesome-machine-unlearning)
 
