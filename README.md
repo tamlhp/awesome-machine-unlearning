@@ -53,7 +53,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-220
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
 | [Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2305.06360) | _arXiv_ | 2023 |
-| [Machine Unlearning: A Survey](https://dl.acm.org/doi/10.1145/3603620) | CSUR | 2023 |
+| [Machine Unlearning: A Survey](https://dl.acm.org/doi/10.1145/3603620) | _CSUR_ | 2023 |
 | [An Introduction to Machine Unlearning](https://arxiv.org/abs/2209.00939) | _arXiv_ | 2022 |
 | [Machine Unlearning: Its Need and Implementation Strategies](https://dl.acm.org/doi/abs/10.1145/3474124.3474158) | _IC3_ | 2021 |
 | [Making machine learning forget](https://www.sciencedirect.com/science/article/pii/S0267364917302091) | _Annual Privacy Forum_ | 2019 |
