@@ -52,6 +52,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-220
 ## Existing Surveys
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
+| [A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions](https://arxiv.org/abs/2310.19218) | _arXiv_ | 2023 |
 | [Machine Unlearning: Solutions and Challenges](https://arxiv.org/abs/2308.07061) | _arXiv_ | 2023 |
 | [Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2305.06360) | _arXiv_ | 2023 |
 | [Machine Unlearning: A Survey](https://dl.acm.org/doi/10.1145/3603620) | _CSUR_ | 2023 |
@@ -69,6 +70,9 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [Open Knowledge Base Canonicalization with Multi-task Unlearning](https://arxiv.org/pdf/2310.16419.pdf) | 2023 | Liu et al. | _arXiv_ | MulCanon | - |  |
+| [Unlearning via Sparse Representations](https://arxiv.org/abs/2311.15268) | 2023 | Shah et al. | _arXiv_ | DKVB | - |  Zero-shot Unlearning | 
+| [SecureCut: Federated Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://arxiv.org/abs/2311.13174) | 2023 | Zhang et al. | _arXiv_ | SecureCut | - | Vertical Federated Learning |
 | [Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks](https://openreview.net/forum?id=Isy7gl1Hqc) | 2023 | Di et al. | _NeurIPS_ | - | - | Camouflaged data poisoning attacks |
 | [Model Sparsity Can Simplify Machine Unlearning](https://openreview.net/forum?id=0jZH883i34) | 2023 | Jia et al. | _NeurIPS_ | - | [[Code]](https://github.com/OPTML-Group/Unlearn-Sparse) | Weight Pruning |
 | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/abs/2310.12508) | 2023 | Fan et al. | arXiv | SalUn | [[Code]](https://github.com/OPTML-Group/Unlearn-Saliency) | Weight Saliency |
@@ -147,6 +151,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [Multimodal Machine Unlearning](https://arxiv.org/abs/2311.12047) | 2023 | Cheng and Amiri | _arXiv_ | MMUL | - | Multimodal Models |
 | [Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks](https://arxiv.org/abs/2309.14054) | 2023 | Tiwary et al. | _arXiv_ | Adapt-then-Unlearn | - | GAN |
 | [SAFE: Machine Unlearning With Shard Graphs](https://openaccess.thecvf.com/content/ICCV2023/html/Dukler_SAFE_Machine_Unlearning_With_Shard_Graphs_ICCV_2023_paper.html) | 2023 |  Dukler et al. | _ICCV_ | SAFE | - | GNN-based Models |
 | [MUter: Machine Unlearning on Adversarially Trained Models](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_MUter_Machine_Unlearning_on_Adversarially_Trained_Models_ICCV_2023_paper.html) | 2023 | Liu et al | _ICCV_ | MUter | - | Adversarial Training Models |
