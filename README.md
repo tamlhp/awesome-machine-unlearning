@@ -70,6 +70,10 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/) | 2023 | Chen & Yang | _EMNLP_ | EUL | [[Code]](https://github.com/SALT-NLP/Efficient_Unlearning/) | |
+| [Fast Model DeBias with Machine Unlearning](https://openreview.net/forum?id=BL9Pc7xsdX&noteId=BL9Pc7xsdX) | 2023 | Chen et al. | _NIPS_ | DeBias | [[Code]](https://github.com/richhh520/model-debias/) |  |
+| [DUCK: Distance-based Unlearning via Centroid Kinematics](https://arxiv.org/abs/2312.02052) | 2023 |Cotogni et al. | _arXiv_ | DUCK | [[Code]](https://github.com/OcraM17/DUCK) |  |
+| [Towards Machine Unlearning Benchmarks: Forgetting the Personal Identities in Facial Recognition Systems](https://arxiv.org/abs/2311.02240) | 2023 | Choi & Na | _arXiv_ | MUFAC & MUCAC | [[Code]](https://github.com/ndb796/MachineUnlearning) | benchmark dataset |
 | [Open Knowledge Base Canonicalization with Multi-task Unlearning](https://arxiv.org/pdf/2310.16419.pdf) | 2023 | Liu et al. | _arXiv_ | MulCanon | - |  |
 | [Unlearning via Sparse Representations](https://arxiv.org/abs/2311.15268) | 2023 | Shah et al. | _arXiv_ | DKVB | - |  Zero-shot Unlearning | 
 | [SecureCut: Federated Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://arxiv.org/abs/2311.13174) | 2023 | Zhang et al. | _arXiv_ | SecureCut | - | Vertical Federated Learning |
@@ -151,6 +155,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs](https://research.ibm.com/publications/fairsisa-ensemble-post-processing-to-improve-fairness-of-unlearning-in-llms) | 2023 | Kadhe et al. | _NeurIPS_ | FairSISA | - | LLMs |
 | [Multimodal Machine Unlearning](https://arxiv.org/abs/2311.12047) | 2023 | Cheng and Amiri | _arXiv_ | MMUL | - | Multimodal Models |
 | [Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks](https://arxiv.org/abs/2309.14054) | 2023 | Tiwary et al. | _arXiv_ | Adapt-then-Unlearn | - | GAN |
 | [SAFE: Machine Unlearning With Shard Graphs](https://openaccess.thecvf.com/content/ICCV2023/html/Dukler_SAFE_Machine_Unlearning_With_Shard_Graphs_ICCV_2023_paper.html) | 2023 |  Dukler et al. | _ICCV_ | SAFE | - | GNN-based Models |
