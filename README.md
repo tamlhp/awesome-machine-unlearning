@@ -71,6 +71,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/pdf/2402.11846) | 2024 | Zhang et al. | _arXiv_ | UnlearnCanvas | [[Code]](https://github.com/OPTML-Group/UnlearnCanvas) | benchmark dataset for diffusion models |
 | [SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/abs/2310.12508) | 2024 | Fan et al. | _ICLR_ | SalUn | [[Code]](https://github.com/OPTML-Group/Unlearn-Saliency) | Weight Saliency |
 | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | 2024 | Foster et al. | _AAAI_ | SSD | - | |
 | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | 2024 | Cha et al. | _AAAI_ | instance-wise unlearning | - |  |
