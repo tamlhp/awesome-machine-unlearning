@@ -53,6 +53,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-220
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
 | [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787) | _arXiv_ | 2024 |
+| [Threats, Attacks, and Defenses in Machine Unlearning: A Survey](https://arxiv.org/abs/2403.13682) | _arXiv_ | 2024 |
 | [A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions](https://arxiv.org/abs/2310.19218) | _arXiv_ | 2023 |
 | [Machine Unlearning: Solutions and Challenges](https://arxiv.org/abs/2308.07061) | _arXiv_ | 2023 |
 | [Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2305.06360) | _arXiv_ | 2023 |
