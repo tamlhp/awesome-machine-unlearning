@@ -82,7 +82,6 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/) | 2023 | Chen & Yang | _EMNLP_ | EUL | [[Code]](https://github.com/SALT-NLP/Efficient_Unlearning/) | |
 | [Fast Model DeBias with Machine Unlearning](https://openreview.net/forum?id=BL9Pc7xsdX&noteId=BL9Pc7xsdX) | 2023 | Chen et al. | _NIPS_ | DeBias | [[Code]](https://github.com/richhh520/model-debias/) |  |
 | [DUCK: Distance-based Unlearning via Centroid Kinematics](https://arxiv.org/abs/2312.02052) | 2023 |Cotogni et al. | _arXiv_ | DUCK | [[Code]](https://github.com/OcraM17/DUCK) |  |
-| [Towards Machine Unlearning Benchmarks: Forgetting the Personal Identities in Facial Recognition Systems](https://arxiv.org/abs/2311.02240) | 2023 | Choi & Na | _arXiv_ | MUFAC & MUCAC | [[Code]](https://github.com/ndb796/MachineUnlearning) | benchmark dataset |
 | [Open Knowledge Base Canonicalization with Multi-task Unlearning](https://arxiv.org/pdf/2310.16419.pdf) | 2023 | Liu et al. | _arXiv_ | MulCanon | - |  |
 | [Unlearning via Sparse Representations](https://arxiv.org/abs/2311.15268) | 2023 | Shah et al. | _arXiv_ | DKVB | - |  Zero-shot Unlearning | 
 | [SecureCut: Federated Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://arxiv.org/abs/2311.13174) | 2023 | Zhang et al. | _arXiv_ | SecureCut | - | Vertical Federated Learning |
@@ -269,11 +268,12 @@ The approaches fallen into this category use data partition, data augmentation a
 ### Type: Diffusion
 | Dataset | #Items | Disk Size | Downstream Application | Description |
 | :-- | --- | --- | --- | --- |
-| [UnlearnCanvas](https://arxiv.org/pdf/2402.11846) | 24K | 5GB+ | Style Transfer, etc. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://github.com/OPTML-Group/UnlearnCanvas) |
+| [UnlearnCanvas](https://github.com/OPTML-Group/UnlearnCanvas) | 24K | 5GB+ | Style Transfer, etc. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/pdf/2402.11846) |
 
 ### Type: Image
 | Dataset | #Items | Disk Size | Downstream Application | #Papers Used |
 | :-- | --- | --- | --- | --- |
+| [MUFAC & MUCAC](https://github.com/ndb796/MachineUnlearning) | 13K & 30K | 1GB? | Facial Recognition | [Towards Machine Unlearning Benchmarks: Forgetting the Personal Identities in Facial Recognition Systems](https://arxiv.org/abs/2311.02240) |
 | [MNIST](https://deepai.org/dataset/mnist) | 70K | 11MB | Classification | 29+ papers |
 | [CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html) | 60K | 163MB | Classification | 16+ papers |  
 | [SVHN](http://ufldl.stanford.edu/housenumbers/) | 600K | 400MB+ | Classification | 8+ papers | 
