@@ -52,6 +52,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-220
 ## Existing Surveys
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
+| [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062) | _arXiv_ | 2024 |
 | [Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787) | _arXiv_ | 2024 |
 | [Threats, Attacks, and Defenses in Machine Unlearning: A Survey](https://arxiv.org/abs/2403.13682) | _arXiv_ | 2024 |
 | [A Survey on Federated Unlearning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/2310.20448) | _arXiv_ | 2023 |
