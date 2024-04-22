@@ -76,6 +76,15 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [Post-Training Attribute Unlearning in Recommender Systems](https://arxiv.org/abs/2403.06737) | 2024 | Chen et al. | _arXiv_ | - | - | PoT-AU |
+| [Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://arxiv.org/abs/2310.05847) | 2024 | Li et al. | _arXiv_ | - | - | PoT-AU |
+| [CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation](https://arxiv.org/abs/2311.12999) | 2024 | Abbasi et al. | _arXiv_ | CovarNav | - |  |
+| [Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective](https://arxiv.org/abs/2403.16246) | 2024 | Panda et al. | _arXiv_ | PBU | - |  |
+| [Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning](https://arxiv.org/abs/2403.16257) | 2024 | Liang et al. | _arXiv_ | UBT | - |  |
+| [∇τ: Gradient-based and Task-Agnostic machine Unlearning](https://arxiv.org/abs/2403.14339) | 2024 | Trippa et al. | _arXiv_ | - | - |  |
+| [Towards Independence Criterion in Machine Unlearning of Features and Labels](https://arxiv.org/abs/2403.08124) | 2024 | Han et al. | _arXiv_ | - | - |  |
+| [Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362) | 2024 | Fan et al. | _arXiv_ | - | [[Code]](https://github.com/OPTML-Group/Unlearn-WorstCase.) |  |
+| [Corrective Machine Unlearning](https://arxiv.org/abs/2402.14015) | 2024 | Geol et al. | _arXiv_ | - | - |  |
 | [Fair Machine Unlearning: Data Removal while Mitigating Disparities](https://arxiv.org/abs/2307.14754) | 2024 | Oesterling et al. | AISTATS | fair machine unlearning | [[Code]](https://github.com/AI4LIFE-GROUP/fair-unlearning) |  |
 | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://arxiv.org/abs/2404.00506) | 2024 | Shen et al. | _arXiv_ | Label-Agnostic Forgetting  | [[Code]](https://github.com/ShaofeiShen768/LAF) | |
 | [CaMU: Disentangling Causal Effects in Deep Model Unlearning](https://arxiv.org/abs/2401.17504) | 2024 | Shen et al. | _arXiv_ | CaMU | [[Code]](https://github.com/ShaofeiShen768/CaMU) |  |
@@ -169,6 +178,9 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536) | 2024 | Wang et al. | _arXiv_ | E2URec | [[Code]](https://github.com/justarter/E2URec)  | LLM |
+| [Dissecting Language Models: Machine Unlearning via Selective Pruning](https://arxiv.org/abs/2403.01267) | 2024 | Pochinkov and Schoots | _arXiv_ | selective pruning | - | LLM |
+| [Decentralized Federated Unlearning on Blockchain](https://arxiv.org/abs/2402.16294) | 2024 | Liu et al. | _arXiv_ | BoclkFUL | - | Directed Acyclic Graph |
 | [Unlink to Unlearn: Simplifying Edge Unlearning in GNNs](https://arxiv.org/abs/2402.10695) | 2024 | Tan et al. | _WWW_ | UtU | [[Code]](https://github.com/Sumsky21/Unlink-to-Unlearn) | GNN-based models |
 | [Preserving Privacy Through Dememorization: An Unlearning Technique For Mitigating Memorization Risks In Language Models](https://aclanthology.org/2023.emnlp-main.265/) | 2024 | Kassem et al. | _EMNLP_ | DeMem | - | LLM |
 | [Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760) | 2024 | Li et al. | _AAAI_ | MEGU | - | GNN-based models |
