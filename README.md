@@ -206,7 +206,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | [Graph Unlearning](https://arxiv.org/abs/2103.14991) | 2022 | Chen et al. | _CCS_ | GraphEraser | [[Code]](https://github.com/MinChen00/Graph-Unlearning)  | Graph Neural Networks |
 | [Certified Graph Unlearning](https://arxiv.org/abs/2206.09140) | 2022 | Chien et al.  | _GLFrontiers Workshop_ | - | [[Code]](https://github.com/thupchnsky/sgc_unlearn) | Graph Neural Networks |
 | [Skin Deep Unlearning: Artefact and Instrument Debiasing in the Context of Melanoma Classification](https://arxiv.org/abs/2109.09818) | 2022 | Bevan and Atapour-Abarghouei | _ICML_ | - | [[Code]](https://github.com/pbevan1/Skin-Deep-Unlearning) | CNN Models |
-| [Near-Optimal Task Selection for Meta-Learning with Mutual Information and Online Variational Bayesian Unlearning](https://proceedings.mlr.press/v151/chen22h.html) | 2022 | Chen et al. | _AISTATS_ | - | - | Bayensian Models |
+| [Near-Optimal Task Selection for Meta-Learning with Mutual Information and Online Variational Bayesian Unlearning](https://proceedings.mlr.press/v151/chen22h.html) | 2022 | Chen et al. | _AISTATS_ | - | - | Bayesian Models |
 | [Unlearning Protected User Attributes in Recommendations with Adversarial Training](https://arxiv.org/abs/2206.04500) | 2022 | Ganhor et al. | _SIGIR_ | ADV-MULTVAE | [[Code]](https://github.com/CPJKU/adv-multvae) | Autoencoder-based Model |
 | [Recommendation Unlearning](https://dl.acm.org/doi/abs/10.1145/3485447.3511997) | 2022 | Chen et al. | _TheWebConf_ | RecEraser | [[Code]](https://github.com/chenchongthu/Recommendation-Unlearning) | Attention-based Model |
 | [Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696) | 2022 | Dai et al. | _ACL_ | - | [[Code]](https://github.com/Hunter-DDM/knowledge-neurons) | Transformers
@@ -215,7 +215,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216) | 2022 | Pan et al. | _arXiv_ | - | - | GNN-based Models |
 | [Deep Regression Unlearning](https://arxiv.org/abs/2210.08196) | 2022 | Tarun et al. | _arXiv_ | Blindspot | - | Regression Model |
 | [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636) | 2022 | Lu et al. | _arXiv_ | Quark | [[Code]](https://github.com/GXimingLu/Quark) | language models |
-| [Forget-SVGD: Particle-Based Bayesian Federated Unlearning](https://ieeexplore.ieee.org/abstract/document/9820602) | 2022 | Gong et al.  | _DSL Workshop_ | Forget-SVGD | - | Bayensian Models |
+| [Forget-SVGD: Particle-Based Bayesian Federated Unlearning](https://ieeexplore.ieee.org/abstract/document/9820602) | 2022 | Gong et al.  | _DSL Workshop_ | Forget-SVGD | - | Bayesian Models |
 | [Machine Unlearning of Federated Clusters](https://arxiv.org/abs/2210.16424) | 2022 | Pan et al. | _arXiv_ | SCMA | - | Federated clustering |
 | [Machine Unlearning for Image Retrieval: A Generative Scrubbing Approach](https://dl.acm.org/doi/abs/10.1145/3503161.3548378) | 2022 | Zhang et al. | _MM_ | - | - | DNN-based Models |
 | [Machine Unlearning: Linear Filtration for Logit-based Classifiers](https://link.springer.com/article/10.1007/s10994-022-06178-9) | 2022 | Baumhauer et al. | _Machine Learning_ | normalizing filtration | - | Softmax classifiers |
