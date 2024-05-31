@@ -84,8 +84,8 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning](https://arxiv.org/abs/2403.16257) | 2024 | Liang et al. | _arXiv_ | UBT | - |  |
 | [∇τ: Gradient-based and Task-Agnostic machine Unlearning](https://arxiv.org/abs/2403.14339) | 2024 | Trippa et al. | _arXiv_ | - | - |  |
 | [Towards Independence Criterion in Machine Unlearning of Features and Labels](https://arxiv.org/abs/2403.08124) | 2024 | Han et al. | _arXiv_ | - | - |  |
-| [Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362) | 2024 | Fan et al. | _arXiv_ | - | [[Python]](https://github.com/OPTML-Group/Unlearn-WorstCase) |  |
-| [Corrective Machine Unlearning](https://arxiv.org/abs/2402.14015) | 2024 | Geol et al. | _arXiv_ | - | - |  |
+| [Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362) | 2024 | Fan et al. | _arXiv_ | - | [[Code]](https://github.com/OPTML-Group/Unlearn-WorstCase) |  |
+| [Corrective Machine Unlearning](https://arxiv.org/abs/2402.14015) | 2024 | Goel et al. | _ICLR DMLR_ | - | [[Code]](https://github.com/drimpossible/corrective-unlearning-bench) |  |
 | [Fair Machine Unlearning: Data Removal while Mitigating Disparities](https://arxiv.org/abs/2307.14754) | 2024 | Oesterling et al. | AISTATS | fair machine unlearning | [[Code]](https://github.com/AI4LIFE-GROUP/fair-unlearning) |  |
 | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://arxiv.org/abs/2404.00506) | 2024 | Shen et al. | _arXiv_ | Label-Agnostic Forgetting  | [[Code]](https://github.com/ShaofeiShen768/LAF) | |
 | [CaMU: Disentangling Causal Effects in Deep Model Unlearning](https://arxiv.org/abs/2401.17504) | 2024 | Shen et al. | _arXiv_ | CaMU | [[Code]](https://github.com/ShaofeiShen768/CaMU) |  |
