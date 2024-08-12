@@ -52,6 +52,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-220
 ## Existing Surveys
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
+| [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516) | _arXiv_ | 2024 |
 | [SoK: Challenges and Opportunities in Federated Unlearning](https://arxiv.org/abs/2403.02437) | _arXiv_ | 2024 |
 | [Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics](https://arxiv.org/abs/2401.05146) | _arXiv_ | 2024 |
 | [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062) | _arXiv_ | 2024 |
