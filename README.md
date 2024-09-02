@@ -78,6 +78,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
 | [Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization](https://proceedings.mlr.press/v238/fraboni24a.html) | 2024 | Fraboni et al. | _AISTATS_ | SIFU | [[Code]](https://github.com/Accenture/Labs-Federated-Learning/tree/SIFU) | Differential privacy, federated learning |
+| [Fast-FedUL: A Training-Free Federated Unlearning with Provable Skew Resilience](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_4) | 2024 | Huynh et al. | _ECML-PKDD_ | Fast-FedUL | [[Code]](https://github.com/thanhtrunghuynh93/fastFedUL) | Federated Unlearning |
 | [On the Trade-Off between Actionable Explanations and the Right to be Forgotten](https://arxiv.org/abs/2208.14137) | 2024 | Pawelczyk et al. | _arXiv_ | - | - |
 | [Post-Training Attribute Unlearning in Recommender Systems](https://arxiv.org/abs/2403.06737) | 2024 | Chen et al. | _arXiv_ | - | - | PoT-AU |
 | [Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://arxiv.org/abs/2310.05847) | 2024 | Li et al. | _arXiv_ | - | - | PoT-AU |
