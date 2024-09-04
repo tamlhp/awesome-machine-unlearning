@@ -302,42 +302,42 @@ The approaches fallen into this category use data partition, data augmentation a
 | [UnlearnCanvas](https://github.com/OPTML-Group/UnlearnCanvas) | 24K | 5GB+ | Style Transfer, etc. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/pdf/2402.11846) |
 
 ### Type: Image
-| Dataset | #Items | Disk Size | Downstream Application | #Papers Used |
+| Dataset | #Items | Disk Size | Downstream Application | Description |
 | :-- | --- | --- | --- | --- |
 | [MUFAC & MUCAC](https://github.com/ndb796/MachineUnlearning) | 13K & 30K | 1GB? | Facial Recognition | [Towards Machine Unlearning Benchmarks: Forgetting the Personal Identities in Facial Recognition Systems](https://arxiv.org/abs/2311.02240) |
-| [MNIST](https://deepai.org/dataset/mnist) | 70K | 11MB | Classification | 29+ papers |
-| [CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html) | 60K | 163MB | Classification | 16+ papers |  
-| [SVHN](http://ufldl.stanford.edu/housenumbers/) | 600K | 400MB+ | Classification | 8+ papers | 
-| [LSUN](https://www.yf.io/p/lsun) | 69M+ | 1TB+ | Classification | 1 paper |
-| [ImageNet](https://www.image-net.org/) | 14M+   | 166GB | Classification | 6 papers |
+| [MNIST](https://deepai.org/dataset/mnist) | 70K | 11MB | Classification |  |
+| [CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html) | 60K | 163MB | Classification |  |  
+| [SVHN](http://ufldl.stanford.edu/housenumbers/) | 600K | 400MB+ | Classification |  | 
+| [LSUN](https://www.yf.io/p/lsun) | 69M+ | 1TB+ | Classification |  |
+| [ImageNet](https://www.image-net.org/) | 14M+   | 166GB | Classification |  |
 
 ### Type: Tabular
-| Dataset | #Items | Disk Size | Downstream Application | #Papers Used |
+| Dataset | #Items | Disk Size | Downstream Application | Description |
 | :-- | --- | --- | --- | --- |
-| [Adult](https://archive.ics.uci.edu/ml/datasets/adult) | 48K+ | 10MB | Classification | 8+ papers |
-| [Breast Cancer](https://archive.ics.uci.edu/ml/datasets/breast+cancer) | 569 | &lt;1MB | Classification | 2 papers |
-| [Diabetes](https://archive.ics.uci.edu/ml/datasets/diabetes) | 442 | &lt;1MB | Regression | 3 papers |
+| [Adult](https://archive.ics.uci.edu/ml/datasets/adult) | 48K+ | 10MB | Classification |  |
+| [Breast Cancer](https://archive.ics.uci.edu/ml/datasets/breast+cancer) | 569 | &lt;1MB | Classification |  |
+| [Diabetes](https://archive.ics.uci.edu/ml/datasets/diabetes) | 442 | &lt;1MB | Regression |  |
 
 ### Type: Text
-| Dataset | #Items | Disk Size | Downstream Application | #Papers Used |
+| Dataset | #Items | Disk Size | Downstream Application | Description |
 | :-- | --- | --- | --- | --- |
-| [IMDB Review](https://ai.stanford.edu/~amaas/data/sentiment/) | 50k | 66MB | Sentiment Analysis | 1 paper |
-| [Reuters](https://keras.io/api/datasets/reuters/) | 11K+ | 73MB | Categorization | 1 paper |
-| [Newsgroup](https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups) | 20K | 1GB+ | Categorization | 1 paper |
+| [IMDB Review](https://ai.stanford.edu/~amaas/data/sentiment/) | 50k | 66MB | Sentiment Analysis |  |
+| [Reuters](https://keras.io/api/datasets/reuters/) | 11K+ | 73MB | Categorization |  |
+| [Newsgroup](https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups) | 20K | 1GB+ | Categorization | |
 
 ### Type: Sequence
-| Dataset | #Items | Disk Size | Downstream Application | #Papers Used |
+| Dataset | #Items | Disk Size | Downstream Application | Description |
 | :-- | --- | --- | --- | --- |
-| [Epileptic Seizure](https://archive.ics.uci.edu/ml/datasets/Epileptic%2BSeizure%2BRecognition) | 11K+ | 7MB | Timeseries Classification | 1 paper |
-| [Activity Recognition](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones) | 10K+ | 26MB | Timeseries Classification | 1 paper | 
-| [Botnet](https://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT) | 72M | 3GB+ | Clustering | 1 paper |
+| [Epileptic Seizure](https://archive.ics.uci.edu/ml/datasets/Epileptic%2BSeizure%2BRecognition) | 11K+ | 7MB | Timeseries Classification |  |
+| [Activity Recognition](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones) | 10K+ | 26MB | Timeseries Classification |  | 
+| [Botnet](https://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT) | 72M | 3GB+ | Clustering | |
 
 ### Type: Graph
-| Dataset | #Items | Disk Size | Downstream Application | #Papers Used |
+| Dataset | #Items | Disk Size | Downstream Application | Description |
 | :-- | --- | --- | --- | --- |
-| [OGB](https://ogb.stanford.edu/) | 100M+ | 59MB | Classification | 2 papers |
-| [Cora](https://relational.fit.cvut.cz/dataset/CORA) | 2K+ | 4.5MB | Classification | 3 papers | 
-| [MovieLens](http://konect.cc/networks/) | 1B+ | 3GB+ | Recommender Systems | 1 paper |
+| [OGB](https://ogb.stanford.edu/) | 100M+ | 59MB | Classification |  |
+| [Cora](https://relational.fit.cvut.cz/dataset/CORA) | 2K+ | 4.5MB | Classification |  | 
+| [MovieLens](http://konect.cc/networks/) | 1B+ | 3GB+ | Recommender Systems |  |
 
 ----------
 ## Evaluation Metrics
