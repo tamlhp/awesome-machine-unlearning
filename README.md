@@ -100,7 +100,6 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | 2024 | Foster et al. | _arXiv_ | JIT | [[Code]](https://github.com/jwf40/Zeroshot-Unlearning-At-Scale) | Zero-shot |
 | [Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation](https://arxiv.org/abs/2312.16823) | 2023 | Kim et al. | _arXiv_ | LAU | - |  |
 | [Towards bridging the gaps between the right to explanation and the right to be forgotten](https://dl.acm.org/doi/10.5555/3618408.3619140) | 2023 | Krishna et al. | ICML | - | - | e |
-| [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/) | 2023 | Chen & Yang | _EMNLP_ | EUL | [[Code]](https://github.com/SALT-NLP/Efficient_Unlearning/) | |
 | [Fast Model DeBias with Machine Unlearning](https://openreview.net/forum?id=BL9Pc7xsdX&noteId=BL9Pc7xsdX) | 2023 | Chen et al. | _NIPS_ | DeBias | [[Code]](https://github.com/richhh520/model-debias/) |  |
 | [DUCK: Distance-based Unlearning via Centroid Kinematics](https://arxiv.org/abs/2312.02052) | 2023 |Cotogni et al. | _arXiv_ | DUCK | [[Code]](https://github.com/OcraM17/DUCK) |  |
 | [Open Knowledge Base Canonicalization with Multi-task Unlearning](https://arxiv.org/pdf/2310.16419.pdf) | 2023 | Liu et al. | _arXiv_ | MulCanon | - |  |
@@ -191,6 +190,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/abs/2308.08090) | 2024 | Hu et al. | _AAAI_ | Ext-Sub | [[Code]](https://github.com/HITsz-TMG/Ext-Sub) | LLM |
 | [Feature Unlearning for Pre-trained GANs and VAEs](https://ojs.aaai.org/index.php/AAAI/article/view/30138) | 2024 | Moon et al. | AAAI | - | - | GAN, VAEs |
 | [FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models](https://arxiv.org/abs/2312.14895) | 2023 | Panda and AP | _arXiv_ | FAST | [[Code]](https://github.com/Subhodip123/weak-unlearninggan) | GAN |
+| [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/) | 2023 | Chen & Yang | _EMNLP_ | EUL | [[Code]](https://github.com/SALT-NLP/Efficient_Unlearning/) | LLM |
 | [DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://dl.acm.org/doi/10.1145/3589313) | 2023 | Wu et al. | _SIGMOD_ | DeltaBoost | [[Code]](https://github.com/Xtra-Computing/DeltaBoost) | Tree-based Models  |
 | [Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models](https://arxiv.org/abs/2312.14923) | 2023 | Li et al. | _arXiv_ | Fast-NTK | - | CNN model |
 | [Certified Minimax Unlearning with Generalization Rates and Deletion Capacity](https://arxiv.org/abs/2312.10336) | 2023 | Liu et al. | _NeurIPS_ | - | - | Minimax model |
