@@ -112,7 +112,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Fast Model Debias with Machine Unlearning](https://arxiv.org/abs/2310.12560) | 2023 | Chen et al. | _arXiv_ | - | - |  |
 | [FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning](https://arxiv.org/pdf/2309.10283) | 2023 | Shaik et al. | _arXiv_ | FRAMU | - | Federated Learning |
 | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/abs/2309.00886) | 2023 | Huang et al. | _arXiv_ | - | - |  |
-| [Machine Unlearning Methodology base on Stochastic Teacher Network](https://link.springer.com/chapter/10.1007/978-3-031-46677-9_18) | 2023 | Zhang et al. | _ADMA_ | - | Knowledge Distillation |
+| [Machine Unlearning Methodology base on Stochastic Teacher Network](https://link.springer.com/chapter/10.1007/978-3-031-46677-9_18) | 2023 | Zhang et al. | _ADMA_ | Model Reconstruction | - | Knowledge Adaptation |
 | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | 2023 | Foster et al. | _arXiv_ | SSD | [[Code]](https://github.com/if-loops/selective-synaptic-dampening) | |
 | [From Adaptive Query Release to Machine Unlearning](https://arxiv.org/abs/2307.11228) | 2023 | Ullah et al. | _arXiv_ | - | - | Exact Unlearning |
 | [Towards Adversarial Evaluations for Inexact Machine Unlearning](https://arxiv.org/abs/2201.06640) | 2023 | Goel et al. | _arXiv_ | EU-k, CF-k | [[Code]](https://github.com/shash42/Evaluating-Inexact-Unlearning) |
