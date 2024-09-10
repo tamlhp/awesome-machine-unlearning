@@ -80,6 +80,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Communication Efficient and Provable Federated Unlearning](https://dl.acm.org/doi/10.14778/3641204.3641220) | 2024 | Tao et al. | _VLDB_ | FATS | [[Code]](https://github.com/Happy2Git/FATS_supplement) | Federated Unlearning |
 | [Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization](https://proceedings.mlr.press/v238/fraboni24a.html) | 2024 | Fraboni et al. | _AISTATS_ | SIFU | [[Code]](https://github.com/Accenture/Labs-Federated-Learning/tree/SIFU) | Differential Privacy, Federated Unlearning |
 | [Fast-FedUL: A Training-Free Federated Unlearning with Provable Skew Resilience](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_4) | 2024 | Huynh et al. | _ECML-PKDD_ | Fast-FedUL | [[Code]](https://github.com/thanhtrunghuynh93/fastFedUL) | Federated Unlearning |
+| [FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10483278) | 2024 | Shaik et al. | _TKDE_ | FRAMU | - | Federated Learning, Reinforcement Learning |
 | [Federated Unlearning: a Perspective of Stability and Fairness](https://arxiv.org/abs/2402.01276) | 2024 | Shao et al. | _arXiv_ | Stability, Fairness, Verification | - | Federated Unlearning |
 | [On the Trade-Off between Actionable Explanations and the Right to be Forgotten](https://arxiv.org/abs/2208.14137) | 2024 | Pawelczyk et al. | _arXiv_ | - | - |
 | [Post-Training Attribute Unlearning in Recommender Systems](https://arxiv.org/abs/2403.06737) | 2024 | Chen et al. | _arXiv_ | - | - | PoT-AU |
@@ -110,7 +111,6 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks](https://openreview.net/forum?id=Isy7gl1Hqc) | 2023 | Di et al. | _NeurIPS_ | - | - | Camouflaged data poisoning attacks |
 | [Model Sparsity Can Simplify Machine Unlearning](https://openreview.net/forum?id=0jZH883i34) | 2023 | Jia et al. | _NeurIPS_ | l1-sparse | [[Code]](https://github.com/OPTML-Group/Unlearn-Sparse) | Weight Pruning |
 | [Fast Model Debias with Machine Unlearning](https://arxiv.org/abs/2310.12560) | 2023 | Chen et al. | _arXiv_ | - | - |  |
-| [FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning](https://arxiv.org/pdf/2309.10283) | 2023 | Shaik et al. | _arXiv_ | FRAMU | - | Federated Learning |
 | [Tight Bounds for Machine Unlearning via Differential Privacy](https://arxiv.org/abs/2309.00886) | 2023 | Huang et al. | _arXiv_ | - | - |  |
 | [Machine Unlearning Methodology base on Stochastic Teacher Network](https://link.springer.com/chapter/10.1007/978-3-031-46677-9_18) | 2023 | Zhang et al. | _ADMA_ | Model Reconstruction | - | Knowledge Adaptation |
 | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | 2023 | Foster et al. | _arXiv_ | SSD | [[Code]](https://github.com/if-loops/selective-synaptic-dampening) | |
