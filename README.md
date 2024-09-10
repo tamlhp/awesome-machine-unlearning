@@ -99,6 +99,8 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | 2024 | Cha et al. | _AAAI_ | instance-wise unlearning | [[Code]](https://github.com/csm9493/L2UL) |  |
 | [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | 2024 | Schoepf et al. | _arXiv_ | ASSD | [[Code]](https://github.com/if-loops/adaptive-selective-synaptic-dampening) | |
 | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | 2024 | Foster et al. | _arXiv_ | JIT | [[Code]](https://github.com/jwf40/Zeroshot-Unlearning-At-Scale) | Zero-shot |
+| [Is Retain Set All You Need in Machine Unlearning? Restoring Performance of Unlearned Models with Out-Of-Distribution Images
+](https://arxiv.org/abs/2404.12922) | 2024 | Bonato et al. | _arXiv_ | SCAR | [[Code]](https://github.com/jbonato1/SCAR) | Knowledge Adaptation |
 | [FedCIO: Efficient Exact Federated Unlearning with Clustering, Isolation, and One-shot Aggregation](https://ieeexplore.ieee.org/document/10386788) | 2023 | Qiu et al. | _BigData_ | FedCIO | - | Federated Unlearning, One-Shot |
 | [Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation](https://arxiv.org/abs/2312.16823) | 2023 | Kim et al. | _arXiv_ | LAU | - |  |
 | [Towards bridging the gaps between the right to explanation and the right to be forgotten](https://dl.acm.org/doi/10.5555/3618408.3619140) | 2023 | Krishna et al. | ICML | - | - | e |
