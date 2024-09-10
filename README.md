@@ -84,7 +84,6 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Federated Unlearning: a Perspective of Stability and Fairness](https://arxiv.org/abs/2402.01276) | 2024 | Shao et al. | _arXiv_ | Stability, Fairness, Verification | - | Federated Unlearning |
 | [On the Trade-Off between Actionable Explanations and the Right to be Forgotten](https://arxiv.org/abs/2208.14137) | 2024 | Pawelczyk et al. | _arXiv_ | - | - |
 | [Post-Training Attribute Unlearning in Recommender Systems](https://arxiv.org/abs/2403.06737) | 2024 | Chen et al. | _arXiv_ | - | - | PoT-AU |
-| [Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://arxiv.org/abs/2310.05847) | 2024 | Li et al. | _arXiv_ | - | - | PoT-AU |
 | [CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation](https://arxiv.org/abs/2311.12999) | 2024 | Abbasi et al. | _arXiv_ | CovarNav | - |  |
 | [Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective](https://arxiv.org/abs/2403.16246) | 2024 | Panda et al. | _arXiv_ | PBU | - |  |
 | [Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning](https://arxiv.org/abs/2403.16257) | 2024 | Liang et al. | _arXiv_ | UBT | - |  |
@@ -100,6 +99,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | 2024 | Cha et al. | _AAAI_ | instance-wise unlearning | [[Code]](https://github.com/csm9493/L2UL) |  |
 | [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | 2024 | Schoepf et al. | _arXiv_ | ASSD | [[Code]](https://github.com/if-loops/adaptive-selective-synaptic-dampening) | |
 | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | 2024 | Foster et al. | _arXiv_ | JIT | [[Code]](https://github.com/jwf40/Zeroshot-Unlearning-At-Scale) | Zero-shot |
+| [Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3581783.3612418) | 2023 | Li et al. | _MM_ | - | - | PoT-AU |
 | [FedCIO: Efficient Exact Federated Unlearning with Clustering, Isolation, and One-shot Aggregation](https://ieeexplore.ieee.org/document/10386788) | 2023 | Qiu et al. | _BigData_ | FedCIO | - | Federated Unlearning, One-Shot |
 | [Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation](https://arxiv.org/abs/2312.16823) | 2023 | Kim et al. | _arXiv_ | LAU | - |  |
 | [Towards bridging the gaps between the right to explanation and the right to be forgotten](https://dl.acm.org/doi/10.5555/3618408.3619140) | 2023 | Krishna et al. | ICML | - | - | e |
