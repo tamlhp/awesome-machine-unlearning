@@ -222,7 +222,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | [Forgetting Fast in Recommender Systems](https://arxiv.org/abs/2208.06875) | 2022 | Liu et al. | _arXiv_ | AltEraser | - | recommendation system |
 | [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216) | 2022 | Pan et al. | _arXiv_ | - | - | GNN-based Models |
 | [Deep Regression Unlearning](https://arxiv.org/abs/2210.08196) | 2022 | Tarun et al. | _arXiv_ | Blindspot | - | Regression Model |
-| [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636) | 2022 | Lu et al. | _arXiv_ | Quark | [[Code]](https://github.com/GXimingLu/Quark) | language models |
+| [Quark: Controllable Text Generation with Reinforced Unlearning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b125999bde7e80910cbdbd323087df8f-Abstract-Conference.html) | 2022 | Lu et al. | _NeurIPS_ | Quark | [[Code]](https://github.com/GXimingLu/Quark) | Language Models |
 | [Forget-SVGD: Particle-Based Bayesian Federated Unlearning](https://ieeexplore.ieee.org/abstract/document/9820602) | 2022 | Gong et al.  | _DSL Workshop_ | Forget-SVGD | - | Bayesian Models |
 | [Machine Unlearning of Federated Clusters](https://arxiv.org/abs/2210.16424) | 2022 | Pan et al. | _arXiv_ | SCMA | - | Federated clustering |
 | [Machine Unlearning for Image Retrieval: A Generative Scrubbing Approach](https://dl.acm.org/doi/abs/10.1145/3503161.3548378) | 2022 | Zhang et al. | _MM_ | - | - | DNN-based Models |
