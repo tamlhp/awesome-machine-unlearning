@@ -181,6 +181,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
 | [Machine Unlearning for Image-to-Image Generative Models](https://arxiv.org/pdf/2402.00351.pdf) | 2024 | Li et al. | _arXiv_ | - | [[Code]](https://github.com/jpmorganchase/l2l-generator-unlearning) | Generative Models |
+| [Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234) | 2024 | Zhang et al. | _arXiv_ | - | [[Code]](https://github.com/OPTML-Group/AdvUnlearn) | Generative Models, Diffusion Models |
 | [Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536) | 2024 | Wang et al. | _arXiv_ | E2URec | [[Code]](https://github.com/justarter/E2URec)  | LLM |
 | [Dissecting Language Models: Machine Unlearning via Selective Pruning](https://arxiv.org/abs/2403.01267) | 2024 | Pochinkov and Schoots | _arXiv_ | selective pruning | [[Code]](https://github.com/nickypro/selective-pruning) | LLM |
 | [Decoupling the Class Label and the Target Concept in Machine Unlearning](https://arxiv.org/abs/2406.08288) | 2024 | Zhu et al. | _arXiv_ | TARF | - | LLM |
