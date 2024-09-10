@@ -212,6 +212,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://arxiv.org/abs/2302.13406) | 2023 | Cheng et al. | _ICLR_ | GNNDELETE | [[Code]](https://github.com/mims-harvard/GNNDelete) | GNN-based Models  |
 | [Unfolded Self-Reconstruction LSH: Towards Machine Unlearning in Approximate Nearest Neighbour Search](https://arxiv.org/pdf/2304.02350.pdf) | 2023 | Tan et al. | _arXiv_ | USR-LSH | [[Code]](https://anonymous.4open.science/r/ann-benchmarks-3786/README.md) |   |
 | [Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection](https://arxiv.org/abs/2302.08990) | 2023 | Cong and Mahdavi | _AISTATS_ | PROJECTOR | [[Code]](https://github.com/CongWeilin/Projector) | GNN-based Models |
+| [Unlearning Graph Classifiers with Limited Data Resources](https://dl.acm.org/doi/abs/10.1145/3543507.3583547) | 2023 | Pan et al. | _WWW_ | GST-Unlearn | [[Code]](https://zenodo.org/records/7613150) | GNN-based Models |
 | [Unrolling SGD: Understanding Factors Influencing Machine Unlearning](https://ieeexplore.ieee.org/abstract/document/9797378) | 2022 | Thudi et al. | _EuroS&P_ | - | [[Code]](https://github.com/cleverhans-lab/unrolling-sgd) | SGD |
 | [Graph Unlearning](https://arxiv.org/abs/2103.14991) | 2022 | Chen et al. | _CCS_ | GraphEraser | [[Code]](https://github.com/MinChen00/Graph-Unlearning)  | Graph Neural Networks |
 | [Certified Graph Unlearning](https://arxiv.org/abs/2206.09140) | 2022 | Chien et al.  | _GLFrontiers Workshop_ | - | [[Code]](https://github.com/thupchnsky/sgc_unlearn) | Graph Neural Networks |
@@ -222,7 +223,6 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | [Knowledge Neurons in Pretrained Transformers](https://arxiv.org/abs/2104.08696) | 2022 | Dai et al. | _ACL_ | - | [[Code]](https://github.com/Hunter-DDM/knowledge-neurons) | Transformers
 | [Memory-Based Model Editing at Scale](https://proceedings.mlr.press/v162/mitchell22a/mitchell22a.pdf) | 2022 | Mitchell et al. | _MLR_ | SERAC | [[Code]](https://sites.google.com/view/serac-editing) | DNN-based Models |
 | [Forgetting Fast in Recommender Systems](https://arxiv.org/abs/2208.06875) | 2022 | Liu et al. | _arXiv_ | AltEraser | - | recommendation system |
-| [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216) | 2022 | Pan et al. | _arXiv_ | - | - | GNN-based Models |
 | [Deep Regression Unlearning](https://arxiv.org/abs/2210.08196) | 2022 | Tarun et al. | _arXiv_ | Blindspot | - | Regression Model |
 | [Quark: Controllable Text Generation with Reinforced Unlearning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b125999bde7e80910cbdbd323087df8f-Abstract-Conference.html) | 2022 | Lu et al. | _NeurIPS_ | Quark | [[Code]](https://github.com/GXimingLu/Quark) | Language Models |
 | [Forget-SVGD: Particle-Based Bayesian Federated Unlearning](https://ieeexplore.ieee.org/abstract/document/9820602) | 2022 | Gong et al.  | _DSL Workshop_ | Forget-SVGD | - | Bayesian Models |
