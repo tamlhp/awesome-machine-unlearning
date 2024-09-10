@@ -99,7 +99,6 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers](https://arxiv.org/abs/2301.11578) | 2024 | Cha et al. | _AAAI_ | instance-wise unlearning | [[Code]](https://github.com/csm9493/L2UL) |  |
 | [Parameter-tuning-free data entry error unlearning with adaptive selective synaptic dampening](https://arxiv.org/abs/2402.10098) | 2024 | Schoepf et al. | _arXiv_ | ASSD | [[Code]](https://github.com/if-loops/adaptive-selective-synaptic-dampening) | |
 | [Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization](https://arxiv.org/abs/2402.01401) | 2024 | Foster et al. | _arXiv_ | JIT | [[Code]](https://github.com/jwf40/Zeroshot-Unlearning-At-Scale) | Zero-shot |
-| [Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3581783.3612418) | 2023 | Li et al. | _MM_ | - | - | PoT-AU |
 | [FedCIO: Efficient Exact Federated Unlearning with Clustering, Isolation, and One-shot Aggregation](https://ieeexplore.ieee.org/document/10386788) | 2023 | Qiu et al. | _BigData_ | FedCIO | - | Federated Unlearning, One-Shot |
 | [Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation](https://arxiv.org/abs/2312.16823) | 2023 | Kim et al. | _arXiv_ | LAU | - |  |
 | [Towards bridging the gaps between the right to explanation and the right to be forgotten](https://dl.acm.org/doi/10.5555/3618408.3619140) | 2023 | Krishna et al. | ICML | - | - | e |
@@ -194,6 +193,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://ojs.aaai.org/index.php/AAAI/article/view/29784) | 2024 | Hu et al. | _AAAI_ | Ext-Sub | [[Code]](https://github.com/HITsz-TMG/Ext-Sub) | LLM |
 | [Feature Unlearning for Pre-trained GANs and VAEs](https://ojs.aaai.org/index.php/AAAI/article/view/30138) | 2024 | Moon et al. | AAAI | - | - | GAN, VAEs |
 | [Multi-Modal Recommendation Unlearning](https://arxiv.org/abs/2405.15328) | 2024 | Sinha et al. | _arXiv_ | MMRecUN | - | recommendation system |
+| [Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3581783.3612418) | 2023 | Li et al. | _MM_ | PoT-AU | - | Recommendation Systems |
 | [FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models](https://arxiv.org/abs/2312.14895) | 2023 | Panda and AP | _arXiv_ | FAST | [[Code]](https://github.com/Subhodip123/weak-unlearninggan) | GAN |
 | [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/) | 2023 | Chen & Yang | _EMNLP_ | EUL | [[Code]](https://github.com/SALT-NLP/Efficient_Unlearning/) | LLM |
 | [DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://dl.acm.org/doi/10.1145/3589313) | 2023 | Wu et al. | _SIGMOD_ | DeltaBoost | [[Code]](https://github.com/Xtra-Computing/DeltaBoost) | Tree-based Models  |
