@@ -189,11 +189,11 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | [Unlearning with Control: Assessing Real-world Utility for Large Language Model Unlearning](https://arxiv.org/abs/2406.09179) | 2024 | Wang et al. | _arXiv_ | Benchmark | - | LLM |
 | [Decentralized Federated Unlearning on Blockchain](https://arxiv.org/abs/2402.16294) | 2024 | Liu et al. | _arXiv_ | BoclkFUL | - | Directed Acyclic Graph |
 | [Unlink to Unlearn: Simplifying Edge Unlearning in GNNs](https://arxiv.org/abs/2402.10695) | 2024 | Tan et al. | _WWW_ | UtU | [[Code]](https://github.com/Sumsky21/Unlink-to-Unlearn) | GNN-based models |
-| [Preserving Privacy Through Dememorization: An Unlearning Technique For Mitigating Memorization Risks In Language Models](https://aclanthology.org/2023.emnlp-main.265/) | 2024 | Kassem et al. | _EMNLP_ | DeMem | - | LLM |
 | [Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760) | 2024 | Li et al. | _AAAI_ | MEGU | - | GNN-based models |
 | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://ojs.aaai.org/index.php/AAAI/article/view/29784) | 2024 | Hu et al. | _AAAI_ | Ext-Sub | [[Code]](https://github.com/HITsz-TMG/Ext-Sub) | LLM |
 | [Feature Unlearning for Pre-trained GANs and VAEs](https://ojs.aaai.org/index.php/AAAI/article/view/30138) | 2024 | Moon et al. | AAAI | - | - | GAN, VAEs |
 | [Multi-Modal Recommendation Unlearning](https://arxiv.org/abs/2405.15328) | 2024 | Sinha et al. | _arXiv_ | MMRecUN | - | recommendation system |
+| [Preserving Privacy Through Dememorization: An Unlearning Technique For Mitigating Memorization Risks In Language Models](https://aclanthology.org/2023.emnlp-main.265/) | 2023 | Kassem et al. | _EMNLP_ | DeMem | - | LLM |
 | [Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3581783.3612418) | 2023 | Li et al. | _MM_ | PoT-AU | - | Recommendation Systems |
 | [FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models](https://arxiv.org/abs/2312.14895) | 2023 | Panda and AP | _arXiv_ | FAST | [[Code]](https://github.com/Subhodip123/weak-unlearning-gan) | GAN |
 | [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/) | 2023 | Chen & Yang | _EMNLP_ | EUL | [[Code]](https://github.com/SALT-NLP/Efficient_Unlearning/) | LLM |
