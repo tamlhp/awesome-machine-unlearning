@@ -116,7 +116,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707) | 2023 | Foster et al. | _arXiv_ | SSD | [[Code]](https://github.com/if-loops/selective-synaptic-dampening) | |
 | [From Adaptive Query Release to Machine Unlearning](https://arxiv.org/abs/2307.11228) | 2023 | Ullah et al. | _arXiv_ | - | - | Exact Unlearning |
 | [Towards Adversarial Evaluations for Inexact Machine Unlearning](https://arxiv.org/abs/2201.06640) | 2023 | Goel et al. | _arXiv_ | EU-k, CF-k | [[Code]](https://github.com/shash42/Evaluating-Inexact-Unlearning) |
-| [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535) | 2023 | Wang et al. | _arXiv_ | KGA | [[Code]](https://github.com/Lingzhi-WANG/KGAUnlearn) | |
+| [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://aclanthology.org/2023.acl-long.740/) | 2023 | Wang et al. | _ACL_ | KGA | [[Code]](https://github.com/Lingzhi-WANG/KGAUnlearn) | Knowledge Adaptation |
 | [On the Trade-Off between Actionable Explanations and the Right to be Forgotten](https://openreview.net/pdf?id=HWt4BBZjVW) | 2023 | Pawelczyk et al. | _arXiv_ | - | - |  |
 | [Towards Unbounded Machine Unlearning](https://arxiv.org/pdf/2302.09880) | 2023 | Kurmanji et al. | _arXiv_ | SCRUB | [[Code]](https://github.com/Meghdad92/SCRUB) | approximate unlearning |
 | [Netflix and Forget: Efficient and Exact Machine Unlearning from Bi-linear Recommendations](https://arxiv.org/abs/2302.06676) | 2023 | Xu et al. | _arXiv_ | Unlearn-ALS | - | Exact Unlearning |
