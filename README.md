@@ -302,7 +302,7 @@ The approaches fallen into this category use data partition, data augmentation a
 ### Type: Diffusion
 | Dataset | #Items | Disk Size | Downstream Application | Description |
 | :-- | --- | --- | --- | --- |
-| [UnlearnCanvas](https://github.com/OPTML-Group/UnlearnCanvas) | 24K | 5GB+ | Style Transfer, etc. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/pdf/2402.11846) |
+| [UnlearnCanvas](https://github.com/OPTML-Group/UnlearnCanvas) | 24K | 5GB+ | Style Transfer, etc. | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846) |
 
 ### Type: Image
 | Dataset | #Items | Disk Size | Downstream Application | Description |
