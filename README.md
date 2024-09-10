@@ -142,7 +142,6 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](https://arxiv.org/abs/2203.07320) | 2022 | Liu et al. | _INFOCOM_ | - | [[Code]](https://github.com/yiliucs/federated-unlearning) |  |
 | [Backdoor Defense with Machine Unlearning](https://arxiv.org/abs/2201.09538) | 2022 | Liu et al. | _INFOCOM_ | BAERASER | - | Backdoor defense |
 | [Markov Chain Monte Carlo-Based Machine Unlearning: Unlearning What Needs to be Forgotten](https://dl.acm.org/doi/abs/10.1145/3488932.3517406) | 2022 | Nguyen et al. | _ASIA CCS_ | MCU | - | MCMC Unlearning  |
-| [Federated Unlearning for On-Device Recommendation](https://arxiv.org/abs/2210.10958) | 2022 | Yuan et al. | _arXiv_ | - | - |  |
 | [Can Bad Teaching Induce Forgetting? Unlearning in Deep Networks using an Incompetent Teacher](https://arxiv.org/abs/2205.08096) | 2022 | Chundawat et al. | _arXiv_ | - | - | Knowledge Adaptation |
 | [ Efficient Two-Stage Model Retraining for Machine Unlearning](https://openaccess.thecvf.com/content/CVPR2022W/HCIS/html/Kim_Efficient_Two-Stage_Model_Retraining_for_Machine_Unlearning_CVPRW_2022_paper.html) | 2022 | Kim and Woo | _CVPR Workshop_ | - | - |  |
 | [Learn to Forget: Machine Unlearning Via Neuron Masking](https://ieeexplore.ieee.org/abstract/document/9844865?casa_token=_eowH3BTt1sAAAAA:X0uCpLxOwcFRNJHoo3AtA0ay4t075_cSptgTMznsjusnvgySq-rJe8GC285YhWG4Q0fUmP9Sodw0) | 2021 | Ma et al. | _IEEE_ | Forsaken | - | Mask Gradients |
@@ -197,6 +196,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | [FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models](https://arxiv.org/abs/2312.14895) | 2023 | Panda and AP | _arXiv_ | FAST | [[Code]](https://github.com/Subhodip123/weak-unlearninggan) | GAN |
 | [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/) | 2023 | Chen & Yang | _EMNLP_ | EUL | [[Code]](https://github.com/SALT-NLP/Efficient_Unlearning/) | LLM |
 | [DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning](https://dl.acm.org/doi/10.1145/3589313) | 2023 | Wu et al. | _SIGMOD_ | DeltaBoost | [[Code]](https://github.com/Xtra-Computing/DeltaBoost) | Tree-based Models  |
+| [Federated Unlearning for On-Device Recommendation](https://dl.acm.org/doi/abs/10.1145/3539597.3570463) | 2023 | Yuan et al. | _WSDM_ | FRU | - | Federated Unlearning, Recommendation Systems |
 | [Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models](https://arxiv.org/abs/2312.14923) | 2023 | Li et al. | _arXiv_ | Fast-NTK | - | CNN model |
 | [Certified Minimax Unlearning with Generalization Rates and Deletion Capacity](https://arxiv.org/abs/2312.10336) | 2023 | Liu et al. | _NeurIPS_ | - | - | Minimax model |
 | [FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs](https://research.ibm.com/publications/fairsisa-ensemble-post-processing-to-improve-fairness-of-unlearning-in-llms) | 2023 | Kadhe et al. | _NeurIPS-SoLaR_ | FairSISA | - | LLM |
