@@ -29,14 +29,14 @@ A sortable version is available here: https://awesome-machine-unlearning.github.
 
 Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-2209.02299-b31b1b.svg)](https://arxiv.org/abs/2209.02299)
 
->Nguyen, T.T., Huynh, T.T., Nguyen, P.L., Liew, A.W.C., Yin, H. and Nguyen, Q.V.H., 2022. A Survey of Machine Unlearning. arXiv preprint arXiv:2209.02299.
+>Nguyen, T.T., Huynh, T.T., Ren, Z., Nguyen, P.L., Liew, A.W.C., Yin, H. and Nguyen, Q.V.H., 2022. A Survey of Machine Unlearning. arXiv preprint arXiv:2209.02299.
 
 ## Citation
 
 ```
 @article{nguyen2022survey,
   title={A Survey of Machine Unlearning},
-  author={Nguyen, Thanh Tam and Huynh, Thanh Trung and Nguyen, Phi Le and Liew, Alan Wee-Chung and Yin, Hongzhi and Nguyen, Quoc Viet Hung},
+  author={Nguyen, Thanh Tam and Huynh, Thanh Trung and Ren, Zhao and Nguyen, Phi Le and Liew, Alan Wee-Chung and Yin, Hongzhi and Nguyen, Quoc Viet Hung},
   journal={arXiv preprint arXiv:2209.02299},
   year={2022}
 }
