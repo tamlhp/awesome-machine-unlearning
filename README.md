@@ -35,7 +35,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-220
 
 📌 We are actively tracking the **latest research** and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to create an issue or a pull request.
 
-📰 2025-02-01: Our work has been cited in the [International AI Safety Report 2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025) in which machine unlearning is the first method to remove sensitive information or harmful data from trained AI models.
+📰 2025-02-01: Our work has been cited in the [International AI Safety Report 2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025) in which machine unlearning is a pioneering paradigm to remove sensitive information or harmful data from trained AI models.
 
 ## Citation
 
