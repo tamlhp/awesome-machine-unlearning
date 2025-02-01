@@ -31,6 +31,12 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-220
 
 >Nguyen, T.T., Huynh, T.T., Ren, Z., Nguyen, P.L., Liew, A.W.C., Yin, H. and Nguyen, Q.V.H., 2022. A Survey of Machine Unlearning. arXiv preprint arXiv:2209.02299.
 
+## 🔖 News!!!
+
+📌 We are actively tracking the **latest research** and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to create an issue or a pull request.
+
+📰 2025-02-01: Our work has been cited in the [International AI Safety Report 2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025) in which machine unlearning is the first method to remove sensitive information or harmful data from trained AI models.
+
 ## Citation
 
 ```
