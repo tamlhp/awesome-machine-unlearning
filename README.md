@@ -380,7 +380,7 @@ Feel free to contact us if you have any queries or exciting news on machine unle
 
 If you have some other related references, please feel free to create a Github issue with the paper information. We will glady update the repos according to your suggestions. (You can also create pull requests, but it might take some time for us to do the merge)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tamlhp/awesome-machine-unlearning&type=Date)](https://star-history.com/#tamlhp/awesome-machine-unlearning&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tamlhp/awesome-machine-unlearning&type=Date)](https://www.star-history.com/#tamlhp/awesome-machine-unlearning&Date)
 
 [![HitCount](https://hits.dwyl.com/tamlhp/awesome-machine-unlearning.svg?style=flat-square)](http://hits.dwyl.com/tamlhp/awesome-machine-unlearning)
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tamlhp.awesome-machine-unlearning)
