@@ -5,8 +5,7 @@
 [![Static Badge](https://img.shields.io/badge/Kaggle-Notebook-4388f7)](https://www.kaggle.com/code/tamlhp/machine-unlearning-the-right-to-be-forgotten/)
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Official%20Website&up_color=green&up_message=online&url=https%3A%2F%2Fawesome-machine-unlearning.github.io%2F)](https://awesome-machine-unlearning.github.io/)
 ![GitHub stars](https://img.shields.io/github/stars/tamlhp/awesome-machine-unlearning?color=yellow&label=Stars)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamlhp%2Fawesome-machine-unlearning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tamlhp.awesome-machine-unlearning)
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 A collection of academic articles, published methodology, and datasets on the subject of **machine unlearning**.
@@ -382,7 +381,8 @@ If you have some other related references, please feel free to create a Github i
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tamlhp/awesome-machine-unlearning&type=Date)](https://www.star-history.com/#tamlhp/awesome-machine-unlearning&Date)
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamlhp%2Fawesome-machine-unlearning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![HitCount](https://hits.dwyl.com/tamlhp/awesome-machine-unlearning.svg?style=flat-square)](http://hits.dwyl.com/tamlhp/awesome-machine-unlearning)
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tamlhp.awesome-machine-unlearning)
  
 ![Hits](https://tamlhp.goatcounter.com/count?p=/unlearning&img=1)
