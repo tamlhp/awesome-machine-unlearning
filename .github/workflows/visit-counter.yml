@@ -1,0 +1,33 @@
+name: Count Visits
+
+on:
+  push:
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *' # Optional: every hour
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Read and update visit count
+        run: |
+          COUNT_FILE="data/visits.json"
+          COUNT=$(jq '.value' $COUNT_FILE)
+          echo "Current count: $COUNT"
+          NEW_COUNT=$((COUNT + 1))
+          echo "{\"value\": $NEW_COUNT}" > $COUNT_FILE
+          echo "Updated count: $NEW_COUNT"
+
+      - name: Commit updated count
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/visits.json
+          git commit -m "Update visitor count [skip ci]" || echo "No changes"
+          git push
