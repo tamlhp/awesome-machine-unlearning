@@ -82,6 +82,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://arxiv.org/abs/2503.23751) | 2025 | Zhou et al. | _CVPR_ | DELETE | [[Code]](https://github.com/shaaaaron/DELETE) | Remain-data Free |
 | [Communication Efficient and Provable Federated Unlearning](https://dl.acm.org/doi/10.14778/3641204.3641220) | 2024 | Tao et al. | _VLDB_ | FATS | [[Code]](https://github.com/Happy2Git/FATS_supplement) | Federated Unlearning |
 | [Sequential Informed Federated Unlearning: Efficient and Provable Client Unlearning in Federated Optimization](https://proceedings.mlr.press/v238/fraboni24a.html) | 2024 | Fraboni et al. | _AISTATS_ | SIFU | [[Code]](https://github.com/Accenture/Labs-Federated-Learning/tree/SIFU) | Differential Privacy, Federated Unlearning |
 | [Fast-FedUL: A Training-Free Federated Unlearning with Provable Skew Resilience](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_4) | 2024 | Huynh et al. | _ECML-PKDD_ | Fast-FedUL | [[Code]](https://github.com/thanhtrunghuynh93/fastFedUL) | Federated Unlearning |
