@@ -2,11 +2,9 @@ name: Count Visits
 
 on:
   push:
-    paths:
-      - 'README.md'
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 1'  # every week on Monday at 00:00 UTC
+    - cron: '0 0 * * 1'
 
 jobs:
   count:
