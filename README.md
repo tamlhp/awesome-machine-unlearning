@@ -372,6 +372,7 @@ The approaches fallen into this category use data partition, data augmentation a
 ## Benchmarks
 
 [Open Unlearning - An easily extensible framework unifying LLM unlearning evaluation benchmarks](https://github.com/locuslab/open-unlearning)
+[Machine Unlearning Comparator](https://github.com/gnueaj/Machine-Unlearning-Comparator)
 
 ----------
 **Disclaimer**
