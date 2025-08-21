@@ -23,6 +23,7 @@ A collection of academic articles, published methodology, and datasets on the su
     - [Type: Sequence](#type-sequence)
     - [Type: Graph](#type-graph)
   - [Evaluation Metrics](#evaluation-metrics)
+  - [Benchmarks](#benchmarks)
 
 A sortable version is available here: https://awesome-machine-unlearning.github.io/
 
