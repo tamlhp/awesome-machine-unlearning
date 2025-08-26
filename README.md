@@ -27,13 +27,15 @@ A collection of academic articles, published methodology, and datasets on the su
 
 A sortable version is available here: https://awesome-machine-unlearning.github.io/
 
-Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-2209.02299-b31b1b.svg)](https://arxiv.org/abs/2209.02299)
+Please read and cite our paper: [![ACM](https://dl.acm.org/doi/10.1145/specs/products/acm/releasedAssets/images/acm-logo-1.png)](https://dl.acm.org/doi/10.1145/3749987)
 
->Nguyen, T.T., Huynh, T.T., Ren, Z., Nguyen, P.L., Liew, A.W.C., Yin, H. and Nguyen, Q.V.H., 2022. A Survey of Machine Unlearning. arXiv preprint arXiv:2209.02299.
+>Thanh Tam Nguyen, Thanh Trung Huynh, Zhao Ren, Phi Le Nguyen, Alan Wee-Chung Liew, Hongzhi Yin, and Quoc Viet Hung Nguyen. 2025. A Survey of Machine Unlearning. ACM Trans. Intell. Syst. Technol. Just Accepted (July 2025). https://doi.org/10.1145/3749987
 
 ## 🔖 News!!!
 
 📌 We are actively tracking the **latest research** and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to create an issue or a pull request.
+
+📰 2025-07-22: Our work has been published in [ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/doi/10.1145/3749987). Thanks a lot for your continuous supports.
 
 📰 2025-02-01: Our work has been cited in the [International AI Safety Report 2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025) in which machine unlearning is a pioneering paradigm to remove sensitive information or harmful data from trained AI models.
 
