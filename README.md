@@ -47,6 +47,15 @@ Please read and cite our paper:
 ## Citation
 
 ```
+@article{10.1145/3749987,
+author = {Nguyen, Thanh Tam and Huynh, Thanh Trung and Ren, Zhao and Nguyen, Phi Le and Liew, Alan Wee-Chung and Yin, Hongzhi and Nguyen, Quoc Viet Hung},
+title = {A Survey of Machine Unlearning},
+year = {2025},
+journal = {ACM Trans. Intell. Syst. Technol.},
+}
+```
+
+```
 @article{nguyen2022survey,
   title={A Survey of Machine Unlearning},
   author={Nguyen, Thanh Tam and Huynh, Thanh Trung and Ren, Zhao and Nguyen, Phi Le and Liew, Alan Wee-Chung and Yin, Hongzhi and Nguyen, Quoc Viet Hung},
