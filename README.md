@@ -26,11 +26,11 @@ A collection of academic articles, published methodology, and datasets on the su
   - [Benchmarks](#benchmarks)
 
 A sortable version is available here: https://awesome-machine-unlearning.github.io/
-
-Please read and cite our paper:  
+  
 <p align="left">
+Please read and cite our paper:
   <a href="https://dl.acm.org/doi/10.1145/3749987">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Association_for_Computing_Machinery_%28ACM%29_logo.svg" alt="ACM" width="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Association_for_Computing_Machinery_%28ACM%29_logo.svg" alt="ACM" width="30"/>
   </a>
 </p>
 
