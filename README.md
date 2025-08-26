@@ -27,7 +27,12 @@ A collection of academic articles, published methodology, and datasets on the su
 
 A sortable version is available here: https://awesome-machine-unlearning.github.io/
 
-Please read and cite our paper: [![ACM](https://upload.wikimedia.org/wikipedia/commons/8/8e/Association_for_Computing_Machinery_%28ACM%29_logo.svg)](https://dl.acm.org/doi/10.1145/3749987)
+Please read and cite our paper:  
+<p align="left">
+  <a href="https://dl.acm.org/doi/10.1145/3749987">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Association_for_Computing_Machinery_%28ACM%29_logo.svg" alt="ACM" width="100"/>
+  </a>
+</p>
 
 >Thanh Tam Nguyen, Thanh Trung Huynh, Zhao Ren, Phi Le Nguyen, Alan Wee-Chung Liew, Hongzhi Yin, and Quoc Viet Hung Nguyen. 2025. A Survey of Machine Unlearning. ACM Trans. Intell. Syst. Technol. Just Accepted (July 2025). https://doi.org/10.1145/3749987
 
