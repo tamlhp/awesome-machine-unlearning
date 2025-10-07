@@ -1,10 +1,10 @@
 name: Count Visits
 
-on:
-  push:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * 1'
+# on:
+#   push:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '0 0 * * 1'
 
 jobs:
   count:
