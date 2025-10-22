@@ -209,9 +209,11 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
 | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://aclanthology.org/2025.coling-main.252/) | 2025 | Mekala et al. | _COLING_ | AltPO | [[Code]](https://github.com/molereddy/Alternate-Preference-Optimization) | LLM |
-| [Sculpting Memory: Multi-Concept Forgetting in Diffusion Models via Dynamic Mask and Concept-Aware Optimization](https://arxiv.org/abs/2504.09039) | 2025 | Li et al. | _ICCV_ | Diffusion Models | - | Concept Unlearning |
-| [Efficient Knowledge Graph Unlearning with Zeroth-order Information](https://arxiv.org/abs/2508.14013) | 2025 | Xiao et al. | _CIKM_ | KGE | - | Knowledge Graphs |
-| [Knowledge Graph Unlearning with Schema](https://aclanthology.org/2025.coling-main.238/) | 2025 | Xiao et al. | _COLING_ | KGE | - | Knowledge Graphs |
+| [Sculpting Memory: Multi-Concept Forgetting in Diffusion Models via Dynamic Mask and Concept-Aware Optimization](https://arxiv.org/abs/2504.09039) | 2025 | Li et al. | _ICCV_ | Diffusion Models | [[Code]](https://github.com/coulsonlee/Sculpting-Memory-ICCV-2025) | Concept Unlearning |
+| [Efficient Knowledge Graph Unlearning with Zeroth-order Information](https://arxiv.org/abs/2508.14013) | 2025 | Xiao et al. | _CIKM_ | KGE | [[Code]](https://github.com/NKUShaw/ZOWFKGIF) | Knowledge Graphs |
+| [Knowledge Graph Unlearning with Schema](https://aclanthology.org/2025.coling-main.238/) | 2025 | Xiao et al. | _COLING_ | KGE | [[Code]](https://github.com/NKUShaw/KGUnlearningBySchema) | Knowledge Graphs |
+| [Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech](https://speechunlearn.github.io/) | 2025 | Kim et al. | _ICML_ | TTS | [[Code]](https://github.com/mokcho/spk_id_unlearn_icml2025) | Audio Generation |
+| [No Encore: Unlearning as Opt-out in Music Generation](https://arxiv.org/abs/2509.06277) | 2025 | Kim et al. | _NeurIPS-AI4Music_ | Music Gen. | - | Generative Models |
 | [Machine Unlearning for Image-to-Image Generative Models](https://openreview.net/forum?id=9hjVoPWPnh) | 2024 | Li et al. | _ICLR_ | - | [[Code]](https://github.com/jpmorganchase/l2l-generator-unlearning) | Generative Models |
 | [Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234) | 2024 | Zhang et al. | _arXiv_ | AdvUnlearn | [[Code]](https://github.com/OPTML-Group/AdvUnlearn) | Generative Models, Diffusion Models |
 | [Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536) | 2024 | Wang et al. | _arXiv_ | E2URec | [[Code]](https://github.com/justarter/E2URec)  | LLM |
