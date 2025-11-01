@@ -102,6 +102,8 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [The forget-set identification problem](https://link.springer.com/article/10.1007/s10994-025-06897-9) | 2025 | D'Angelo et al. | _Machine Learning_ | - | - | Dataset Selection |
+| [How to Make Reproducible Research in Machine Unlearning with ERASURE](https://www.ijcai.org/proceedings/2025/1255) | 2025 | D'Angelo et al. | _IJCAI_ | ERASURE | [[Code]](https://github.com/aiim-research/ERASURE) | Model Reconstruction |
 | [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://arxiv.org/abs/2503.23751) | 2025 | Zhou et al. | _CVPR_ | DELETE | [[Code]](https://github.com/shaaaaron/DELETE) | Remain-data Free |
 | [The Right to be Forgotten in Pruning: Unveil Machine Unlearning on Sparse Models](https://arxiv.org/abs/2507.18725) | 2025 | Xiao et al. | _NeurIPS-RegML_ | Un-pruning | - | Weight Pruning |
 | [Communication Efficient and Provable Federated Unlearning](https://dl.acm.org/doi/10.14778/3641204.3641220) | 2024 | Tao et al. | _VLDB_ | FATS | [[Code]](https://github.com/Happy2Git/FATS_supplement) | Federated Unlearning |
