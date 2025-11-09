@@ -404,6 +404,8 @@ The approaches fallen into this category use data partition, data augmentation a
 
 [Open Unlearning - An easily extensible framework unifying LLM unlearning evaluation benchmarks](https://github.com/locuslab/open-unlearning)
 
+[Vision Unlearning - A framework for unlearning algorithms, datasets, metrics, and evaluation methodologies commonly used in Machine Unlearning for vision-related tasks, such as image classification and image generation](https://github.com/LeonardoSanBenitez/vision-unlearning)
+
 [Unlearning Comparator - A visual analytics system for comparative evaluation of machine unlearning methods](https://github.com/gnueaj/Machine-Unlearning-Comparator) [[Paper]](https://arxiv.org/abs/2508.12730) [[Demo]](https://gnueaj.github.io/Machine-Unlearning-Comparator/)
 
 ----------
