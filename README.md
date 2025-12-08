@@ -106,6 +106,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [Machine Unlearning of Personally Identifiable Information in Large Language Models](https://aclanthology.org/2025.nllp-1.6/) | 2025 | Parii et al. | _NLLP_ | PerMU<sub>tok</sub> | [Code](https://github.com/pariidanDKE/Toward-Practical-PII-Unlearning) | Knowledge Adaptation
 | [The forget-set identification problem](https://link.springer.com/article/10.1007/s10994-025-06897-9) | 2025 | D'Angelo et al. | _Machine Learning_ | - | - | Dataset Selection |
 | [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://arxiv.org/abs/2503.23751) | 2025 | Zhou et al. | _CVPR_ | DELETE | [[Code]](https://github.com/shaaaaron/DELETE) | Remain-data Free |
 | [The Right to be Forgotten in Pruning: Unveil Machine Unlearning on Sparse Models](https://arxiv.org/abs/2507.18725) | 2025 | Xiao et al. | _NeurIPS-RegML_ | Un-pruning | - | Weight Pruning |
@@ -362,6 +363,7 @@ The approaches fallen into this category use data partition, data augmentation a
 ### Type: Text
 | Dataset | #Items | Disk Size | Downstream Application | Description |
 | :-- | --- | --- | --- | --- |
+| [Synthetic PII](https://github.com/pariidanDKE/Toward-Practical-PII-Unlearning/tree/master/data/PII) | 2.25k | 4.48MB | Question Answering
 | [TOFU: A Task of Fictitious Unlearning](https://huggingface.co/datasets/locuslab/TOFU) | 4k | 6.11MB | Question Answering |  |
 | [MUSE: Machine Unlearning Six-Way Evaluation for Language Models](https://github.com/jaechan-repo/muse_bench) | 4k | 95MB | Language Modelling |  |
 | [IMDB Review](https://ai.stanford.edu/~amaas/data/sentiment/) | 50k | 66MB | Sentiment Analysis |  |
@@ -401,6 +403,8 @@ The approaches fallen into this category use data partition, data augmentation a
 
 ----------
 ## Benchmarks
+
+[Unlearn PII - Benchmark designed to evaluate the effectiveness of PII unlearning methods, addressing limitations like evaluation implicit knowledge unlearning and assesing all tokens equally](https://github.com/pariidanDKE/Toward-Practical-PII-Unlearning) 
 
 [Open Unlearning - An easily extensible framework unifying LLM unlearning evaluation benchmarks](https://github.com/locuslab/open-unlearning)
 
