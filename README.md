@@ -214,6 +214,8 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [SineProject: Machine Unlearning for Stable Vision Language Alignment](https://arxiv.org/abs/2511.18444) | 2025 | Garg et al. | _arXiv_ | MLLM | - | Multimodal Unlearning |
+| [Stable Forgetting: Bounded Parameter-Efficient Unlearning in LLMs](https://arxiv.org/abs/2509.24166) | 2025 | Garg et al. | _arXiv_ | LLM | - | Parameter-Efficient Unlearning |
 | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://aclanthology.org/2025.coling-main.252/) | 2025 | Mekala et al. | _COLING_ | AltPO | [[Code]](https://github.com/molereddy/Alternate-Preference-Optimization) | LLM |
 | [Sculpting Memory: Multi-Concept Forgetting in Diffusion Models via Dynamic Mask and Concept-Aware Optimization](https://arxiv.org/abs/2504.09039) | 2025 | Li et al. | _ICCV_ | Diffusion Models | [[Code]](https://github.com/coulsonlee/Sculpting-Memory-ICCV-2025) | Concept Unlearning |
 | [Efficient Knowledge Graph Unlearning with Zeroth-order Information](https://arxiv.org/abs/2508.14013) | 2025 | Xiao et al. | _CIKM_ | KGE | [[Code]](https://github.com/NKUShaw/ZOWFKGIF) | Knowledge Graphs |
