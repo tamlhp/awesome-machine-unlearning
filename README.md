@@ -108,6 +108,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
 | [Machine Unlearning of Personally Identifiable Information in Large Language Models](https://aclanthology.org/2025.nllp-1.6/) | 2025 | Parii et al. | _NLLP_ | PerMU<sub>tok</sub> | [Code](https://github.com/pariidanDKE/Toward-Practical-PII-Unlearning) | Knowledge Adaptation
 | [The forget-set identification problem](https://link.springer.com/article/10.1007/s10994-025-06897-9) | 2025 | D'Angelo et al. | _Machine Learning_ | - | - | Dataset Selection |
+| [ESC: Erasing Space Concept for Knowledge Deletion](https://arxiv.org/abs/2504.02199) | 2025 | Lee et al. | _CVPR_ | ESC | [[Code]](https://github.com/KU-VGI/ESC) | Knowledge Deletion |
 | [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](https://arxiv.org/abs/2503.23751) | 2025 | Zhou et al. | _CVPR_ | DELETE | [[Code]](https://github.com/shaaaaron/DELETE) | Remain-data Free |
 | [The Right to be Forgotten in Pruning: Unveil Machine Unlearning on Sparse Models](https://arxiv.org/abs/2507.18725) | 2025 | Xiao et al. | _NeurIPS-RegML_ | Un-pruning | - | Weight Pruning |
 | [Communication Efficient and Provable Federated Unlearning](https://dl.acm.org/doi/10.14778/3641204.3641220) | 2024 | Tao et al. | _VLDB_ | FATS | [[Code]](https://github.com/Happy2Git/FATS_supplement) | Federated Unlearning |
