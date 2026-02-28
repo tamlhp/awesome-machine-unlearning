@@ -107,7 +107,7 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
-| <mark>[Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion](https://doi.org/10.48550/arXiv.2511.11667)</mark> | 2026 | Guo et al. | _AAAI_ | LLM | - | Knowledge Adaptation |
+| <mark>[Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion](https://doi.org/10.48550/arXiv.2511.11667)</mark> | 2026 | Guo et al. | _AAAI_ | LLM | [Code](https://github.com/llmgfffffff/Beyond-Superficial-Forgetting-KUnBR) | Knowledge Adaptation |
 | [Machine Unlearning of Personally Identifiable Information in Large Language Models](https://aclanthology.org/2025.nllp-1.6/) | 2025 | Parii et al. | _NLLP_ | PerMU<sub>tok</sub> | [Code](https://github.com/pariidanDKE/Toward-Practical-PII-Unlearning) | Knowledge Adaptation
 | [The forget-set identification problem](https://link.springer.com/article/10.1007/s10994-025-06897-9) | 2025 | D'Angelo et al. | _Machine Learning_ | - | - | Dataset Selection |
 | [ESC: Erasing Space Concept for Knowledge Deletion](https://arxiv.org/abs/2504.02199) | 2025 | Lee et al. | _CVPR_ | ESC | [[Code]](https://github.com/KU-VGI/ESC) | Knowledge Deletion |
