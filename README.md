@@ -107,7 +107,6 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
-| <mark>[Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion](https://doi.org/10.48550/arXiv.2511.11667)</mark> | 2026 | Guo et al. | _AAAI_ | LLM | [Code](https://github.com/llmgfffffff/Beyond-Superficial-Forgetting-KUnBR) | Knowledge Adaptation |
 | [Machine Unlearning of Personally Identifiable Information in Large Language Models](https://aclanthology.org/2025.nllp-1.6/) | 2025 | Parii et al. | _NLLP_ | PerMU<sub>tok</sub> | [Code](https://github.com/pariidanDKE/Toward-Practical-PII-Unlearning) | Knowledge Adaptation
 | [The forget-set identification problem](https://link.springer.com/article/10.1007/s10994-025-06897-9) | 2025 | D'Angelo et al. | _Machine Learning_ | - | - | Dataset Selection |
 | [ESC: Erasing Space Concept for Knowledge Deletion](https://arxiv.org/abs/2504.02199) | 2025 | Lee et al. | _CVPR_ | ESC | [[Code]](https://github.com/KU-VGI/ESC) | Knowledge Deletion |
@@ -217,6 +216,7 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| <mark>[Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion](https://doi.org/10.48550/arXiv.2511.11667)</mark> | 2026 | Guo et al. | _AAAI_ | LLM | [Code](https://github.com/llmgfffffff/Beyond-Superficial-Forgetting-KUnBR) | Knowledge Adaptation |
 | [SineProject: Machine Unlearning for Stable Vision Language Alignment](https://arxiv.org/abs/2511.18444) | 2025 | Garg et al. | _arXiv_ | MLLM | - | Multimodal Unlearning |
 | [Stable Forgetting: Bounded Parameter-Efficient Unlearning in LLMs](https://arxiv.org/abs/2509.24166) | 2025 | Garg et al. | _arXiv_ | LLM | - | Parameter-Efficient Unlearning |
 | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://aclanthology.org/2025.coling-main.252/) | 2025 | Mekala et al. | _COLING_ | AltPO | [[Code]](https://github.com/molereddy/Alternate-Preference-Optimization) | LLM |
