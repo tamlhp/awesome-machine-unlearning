@@ -75,7 +75,7 @@ Frameworks provide standardized environments, benchmarks, and reproducible resea
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
-| <mark>[Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion](https://doi.org/10.48448/e33m-1058)</mark> | 2026 | - | _AAAI_ | - | - | - |
+| <mark>[Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion](https://doi.org/10.48550/arXiv.2511.11667)</mark> | 2026 | Guo et al. | _AAAI_ | LLM | - | Knowledge Adaptation |
 | [How to Make Reproducible Research in Machine Unlearning with ERASURE](https://www.ijcai.org/proceedings/2025/1255) | 2025 | D'Angelo et al. | _IJCAI_ | ERASURE | [[Code]](https://github.com/aiim-research/ERASURE) | Framework |
 ----------
 
@@ -108,7 +108,6 @@ Model-agnostic machine unlearning methodologies include unlearning processes or 
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
-| <mark>[Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion](https://doi.org/10.48448/e33m-1058)</mark> | 2026 | - | _AAAI_ | - | - | - |
 | [Machine Unlearning of Personally Identifiable Information in Large Language Models](https://aclanthology.org/2025.nllp-1.6/) | 2025 | Parii et al. | _NLLP_ | PerMU<sub>tok</sub> | [Code](https://github.com/pariidanDKE/Toward-Practical-PII-Unlearning) | Knowledge Adaptation
 | [The forget-set identification problem](https://link.springer.com/article/10.1007/s10994-025-06897-9) | 2025 | D'Angelo et al. | _Machine Learning_ | - | - | Dataset Selection |
 | [ESC: Erasing Space Concept for Knowledge Deletion](https://arxiv.org/abs/2504.02199) | 2025 | Lee et al. | _CVPR_ | ESC | [[Code]](https://github.com/KU-VGI/ESC) | Knowledge Deletion |
@@ -218,7 +217,6 @@ The model-intrinsic approaches include unlearning methods designed for a specifi
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
-| <mark>[Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion](https://doi.org/10.48448/e33m-1058)</mark> | 2026 | - | _AAAI_ | - | - | - |
 | [SineProject: Machine Unlearning for Stable Vision Language Alignment](https://arxiv.org/abs/2511.18444) | 2025 | Garg et al. | _arXiv_ | MLLM | - | Multimodal Unlearning |
 | [Stable Forgetting: Bounded Parameter-Efficient Unlearning in LLMs](https://arxiv.org/abs/2509.24166) | 2025 | Garg et al. | _arXiv_ | LLM | - | Parameter-Efficient Unlearning |
 | [Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models](https://aclanthology.org/2025.coling-main.252/) | 2025 | Mekala et al. | _COLING_ | AltPO | [[Code]](https://github.com/molereddy/Alternate-Preference-Optimization) | LLM |
@@ -315,7 +313,6 @@ The approaches fallen into this category use data partition, data augmentation a
 
 | **Paper Title** | **Year** | **Author** | **Venue** | **Model** | **Code** | **Type** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
-| <mark>[Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion](https://doi.org/10.48448/e33m-1058)</mark> | 2026 | - | _AAAI_ | - | - | - |
 | [Towards Machine Unlearning Benchmarks: Forgetting the Personal Identities in Facial Recognition Systems](https://arxiv.org/abs/2311.02240) | 2023 | Choi and Na | _arXiv_ | MUFAC, MUCAC dataset | [[Code]](https://github.com/ndb796/MachineUnlearning) | Introduce two benchmark datasets |
 | [SAFE: Machine Unlearning With Shard Graphs](https://openaccess.thecvf.com/content/ICCV2023/html/Dukler_SAFE_Machine_Unlearning_With_Shard_Graphs_ICCV_2023_paper.html) | 2023 |  Dukler et al. | _ICCV_ | SAFE | - | Data Partition, Shard Graph |
 | [Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks](https://arxiv.org/abs/2212.10717) | 2022 | Di et al. | _NeurIPS-TSRML_ | - | [[Code]](https://github.com/Jimmy-di/camouflage-poisoning) | Data Poisoning |
