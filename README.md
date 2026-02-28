@@ -98,6 +98,7 @@ Frameworks provide standardized environments, benchmarks, and reproducible resea
 | [“Amnesia” - A Selection of Machine Learning Models That Can Forget User Data Very Fast](https://www.semanticscholar.org/paper/%22Amnesia%22-Machine-Learning-Models-That-Can-Forget-Schelter/4e99e7af4b9f08b0a89577cd8ea92a37d4744e1e) | _CIDR_ | 2019 |
 | [Humans forget, machines remember: Artificial intelligence and the Right to Be Forgotten](https://www.sciencedirect.com/science/article/pii/S0267364917302091) | _Computer Law & Security Review_ | 2018 |
 | [Algorithms that remember: model inversion attacks and data protection law](https://doi.org/10.1098/rsta.2018.0083) | _Philosophical Transactions of the Royal Society A_ | 2018 || <mark>[Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion](https://doi.org/10.48448/e33m-1058)</mark> | _Underline Science Inc._ | 2026 |
+| <mark>[Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning](https://doi.org/10.48550/arxiv.2511.20196)</mark> | _arXiv (Cornell University)_ | 2025 |
 
 ----------
 
