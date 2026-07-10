@@ -1,0 +1,15 @@
+name: citation-check
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, edited]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: greymoth-jp/glovrex-citation-action@v0
+        with:
+          github-token: ${{ github.token }}
